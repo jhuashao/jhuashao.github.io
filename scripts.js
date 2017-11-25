@@ -32,7 +32,7 @@ $(document).ready(function() {
 
 		$('.cycling')
 	.mouseover(function() {
-		$('body').css('background', 'url(gifs/cycling.gif) repeat left center fixed');
+		$('body').css('background', 'url(gifs/cyclingcompress.gif) repeat left center fixed');
 		$('body').css('background-size', '50%');
 	})
 	.mouseout(function() {
@@ -42,7 +42,7 @@ $(document).ready(function() {
 
 		$('.makingthings')
 	.mouseover(function() {
-		$('body').css('background', 'url(gifs/knots.gif) repeat center center fixed');
+		$('body').css('background', 'url(gifs/knotscompress.gif) repeat center center fixed');
 		$('body').css('background-size', 'cover');
 	})
 	.mouseout(function() {
