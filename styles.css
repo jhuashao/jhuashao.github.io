@@ -2,9 +2,19 @@
   width: device-width;
 }
 
+@font-face {
+    font-family: SangBleuEmpire-Regular;
+    src: url(fonts/SangBleuEmpire-Regular-WebTrial.woff);
+}
+
+#sangbleu{
+	font-family: SangBleuEmpire-Regular;
+	display: inline-flex;
+}
+
 body{
 	font-family: 'Work Sans', sans-serif;
-	line-height: 5vw;
+	line-height: 5.5vw;
 }
 
 .container{
@@ -14,6 +24,7 @@ body{
 
 .maintext{
 	font-size: 5vw;
+	font-style: regular;
 }
 
 a{
@@ -133,5 +144,4 @@ p, #email{
 
 .makingthings{
 	display: inline-block;
-}
 }
