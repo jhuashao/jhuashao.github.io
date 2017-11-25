@@ -1,0 +1,137 @@
+@-ms-viewport{
+  width: device-width;
+}
+
+body{
+	font-family: 'Work Sans', sans-serif;
+	line-height: 5vw;
+}
+
+.container{
+	margin: 5vw;
+}
+
+
+.maintext{
+	font-size: 5vw;
+}
+
+a{
+	transition: color 0.8s ease;
+	color: deepskyblue;
+	outline: none;
+	text-decoration: none;
+}
+
+a:hover{
+	color: blue;
+}
+
+.mininav{
+	position: absolute;
+	bottom:3vw;
+	right:5vw;
+	display: inline-flex;
+}
+
+p, #email{
+	display: inline-flex;
+	margin: 0;
+	padding-right:8px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.resume{
+	transition: display;
+	display: inline-block;
+
+	cursor: pointer;
+	transition: color 0.8s ease;
+	color: deepskyblue;
+}
+
+.resume:hover{
+	color: blue;
+}
+
+.dropdown-content {
+	transition: background-color 0.8s ease;
+	background-color: #f9f9f9;
+
+	font-size: 2vw;
+
+   /* display: none;*/
+   	visibility: hidden;
+   	opacity: 0;
+  	transition: visibility 0s, opacity 0.5s linear;
+
+    position: absolute;   
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+
+    border-radius: 5px;
+}
+
+.dropdown-content a {
+	transition: background-color 0.8s ease;
+	background-color: none;
+    color: deepskyblue;
+    padding: 5px 15px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.dropdown-content a:hover {
+	background-color: grey;
+}
+
+.dropdown:hover .dropdown-content {
+	visibility: visible;
+  	opacity: 1;
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+
+.descriptionresume{
+	color: deepskyblue;
+	display: flex;
+	align-items: center;
+    justify-content: center;
+	width: auto;
+	height: 25px;
+	font-size: 1vw;
+}
+
+.cover{
+	position: fixed;
+	bottom:0;
+	left: 0;
+	width:100%;
+	height:100vh;
+}
+
+.gd{
+	display: inline-block;
+}
+
+.ctc{
+	display: inline-block;
+}
+
+.cycling{
+	display: inline-block;
+}
+
+.makingthings{
+	display: inline-block;
+}
+}
