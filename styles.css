@@ -18,13 +18,18 @@ body{
 }
 
 .container{
-	margin: 5vw;
+	margin: 1vw;
 }
-
 
 .maintext{
 	font-size: 5vw;
 	font-style: regular;
+}
+
+.maintextcontainer{
+	border-style: solid;
+    border-width: 0.5px;
+    padding: 10px;
 }
 
 a{
@@ -84,8 +89,6 @@ p, #email{
     min-width: 100px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
-
-    border-radius: 5px;
 }
 
 .dropdown-content a {
@@ -122,26 +125,18 @@ p, #email{
 	font-size: 1vw;
 }
 
-.cover{
-	position: fixed;
-	bottom:0;
-	left: 0;
-	width:100%;
-	height:100vh;
-}
-
 .gd{
-	display: inline-block;
+	display: inline-flex;
 }
 
 .ctc{
-	display: inline-block;
+	display: inline-flex;
 }
 
 .cycling{
-	display: inline-block;
+	display: inline-flex;
 }
 
 .makingthings{
-	display: inline-block;
+	display: inline-flex;
 }
