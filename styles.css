@@ -1,104 +1,138 @@
-@-ms-viewport{
-  width: device-width;
+@-ms-viewport {
+	width: device-width;
 }
 
 @font-face {
-    font-family: SangBleuEmpire-Regular;
-    src: url(fonts/SangBleuEmpire-Regular-WebTrial.woff);
+	font-family: SangBleuEmpire-Regular;
+	src: url(fonts/SangBleuEmpire-Regular-WebTrial.woff);
 }
 
-#sangbleu{
+#sangbleu {
 	font-family: SangBleuEmpire-Regular;
 	display: inline-flex;
 }
 
-body{
+body {
 	font-family: 'Work Sans', sans-serif;
-	line-height: 5.5vw;
 }
 
-.container{
-	margin: 1vw;
+.headernav {
+	display: inline-flex;
+	justify-content: space-between;
+	font-size: 20px;
+	width: 400px;
+	margin-left: 7vw;
+	margin-bottom: 2vw;
+	margin-top: 2vw;
+
 }
 
-.maintext{
-	font-size: 5vw;
+/* div.pullDown a:before
+{
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    left: 0px;
+    top: 0px;
+    content: '';
+    background: #FFF;
+    opacity: 0.3;
+    transition: all 0.3s;
+}
+
+div.pullDown a:hover:before
+{
+    height: 100%;
+} */
+
+
+.container {
+	margin-left: 7vw;
+	margin-right: 7vw;
+}
+
+.maintext {
+	font-size: 4vw;
 	font-style: regular;
 }
 
-.maintextcontainer{
-	border-style: solid;
-    border-width: 0.5px;
-    padding: 10px;
+.maintextcontainer {
+	padding: 10px;
+	border-bottom: solid;
+	border-top: solid;
+	border-width: 0.5px;
 }
 
-a{
+.seemore{
+	font-size: 15px;
+	margin-top: 2vw;
+	color: grey;
+}
+
+a {
 	transition: color 0.8s ease;
 	color: deepskyblue;
 	outline: none;
 	text-decoration: none;
 }
 
-a:hover{
+a:hover {
 	color: blue;
 }
 
-.mininav{
+.mininav {
 	position: absolute;
-	bottom:3vw;
-	right:5vw;
+	bottom: 3vw;
+	right: 5vw;
 	display: inline-flex;
 }
 
-p, #email{
+p,
+#email {
 	display: inline-flex;
 	margin: 0;
-	padding-right:8px;
+	padding-right: 8px;
 }
 
 .dropdown {
-    position: relative;
-    display: inline-block;
+	position: relative;
+	display: inline-block;
 }
 
-.resume{
+.resume {
 	transition: display;
 	display: inline-block;
-
 	cursor: pointer;
 	transition: color 0.8s ease;
 	color: deepskyblue;
 }
 
-.resume:hover{
+.resume:hover {
 	color: blue;
 }
 
 .dropdown-content {
 	transition: background-color 0.8s ease;
 	background-color: #f9f9f9;
-
 	font-size: 2vw;
-
-   /* display: none;*/
-   	visibility: hidden;
-   	opacity: 0;
-  	transition: visibility 0s, opacity 0.5s linear;
-
-    position: absolute;   
-    min-width: 100px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
+	/* display: none;*/
+	visibility: hidden;
+	opacity: 0;
+	transition: visibility 0s, opacity 0.5s linear;
+	position: absolute;
+	min-width: 100px;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+	z-index: 1;
 }
 
 .dropdown-content a {
 	transition: background-color 0.8s ease;
 	background-color: none;
-    color: deepskyblue;
-    padding: 5px 15px;
-    text-decoration: none;
-    display: inline-block;
-    border-radius: 5px;
+	color: deepskyblue;
+	padding: 5px 15px;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 5px;
 }
 
 .dropdown-content a:hover {
@@ -107,36 +141,40 @@ p, #email{
 
 .dropdown:hover .dropdown-content {
 	visibility: visible;
-  	opacity: 1;
-    display: block;
+	opacity: 1;
+	display: block;
 }
 
 .dropdown:hover .dropbtn {
-    background-color: #3e8e41;
+	background-color: #3e8e41;
 }
 
-.descriptionresume{
+.descriptionresume {
 	color: deepskyblue;
 	display: flex;
 	align-items: center;
-    justify-content: center;
+	justify-content: center;
 	width: auto;
 	height: 25px;
 	font-size: 1vw;
 }
 
-.gd{
+.risd {
 	display: inline-flex;
 }
 
-.ctc{
+.gd {
 	display: inline-flex;
 }
 
-.cycling{
+.ctc {
 	display: inline-flex;
 }
 
-.makingthings{
+.cycling {
+	display: inline-flex;
+}
+
+.makingthings {
 	display: inline-flex;
 }
