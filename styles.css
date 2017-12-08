@@ -2,18 +2,22 @@
 	width: device-width;
 }
 
-@font-face {
-	font-family: SangBleuEmpire-Regular;
-	src: url(fonts/SangBleuEmpire-Regular-WebTrial.woff);
-}
 
-#sangbleu {
-	font-family: SangBleuEmpire-Regular;
-	display: inline-flex;
-}
+/* /BASE/ */
 
 body {
 	font-family: 'Work Sans', sans-serif;
+	margin: 0;
+	width: 100%;
+	background: aliceblue;
+}
+
+img {
+	width: 100%;
+}
+
+li{
+	list-style-type: none;
 }
 
 .headernav {
@@ -24,36 +28,27 @@ body {
 	margin-left: 7vw;
 	margin-bottom: 2vw;
 	margin-top: 2vw;
-
 }
 
-/* div.pullDown a:before
-{
-    position: absolute;
-    width: 100%;
-    height: 2px;
-    left: 0px;
-    top: 0px;
-    content: '';
-    background: #FFF;
-    opacity: 0.3;
-    transition: all 0.3s;
+#portfolionav{
+	cursor: pointer;
 }
 
-div.pullDown a:hover:before
-{
-    height: 100%;
-} */
+#aboutnav{
+	cursor: pointer;
+}
 
-
-.container {
-	margin-left: 7vw;
-	margin-right: 7vw;
+#contact{
+	cursor: pointer;
 }
 
 .maintext {
 	font-size: 4vw;
-	font-style: regular;
+	margin-left: 5vw;
+	margin-right: 5vw;
+	margin-top: 2vw;
+	margin-bottom: 3vw;
+	/* font-style: regular; */
 }
 
 .maintextcontainer {
@@ -63,14 +58,14 @@ div.pullDown a:hover:before
 	border-width: 0.5px;
 }
 
-.seemore{
+#seemore {
 	font-size: 15px;
-	margin-top: 2vw;
 	color: grey;
+	cursor: pointer;
 }
 
 a {
-	transition: color 0.8s ease;
+	transition: color 0.5s ease;
 	color: deepskyblue;
 	outline: none;
 	text-decoration: none;
@@ -78,13 +73,19 @@ a {
 
 a:hover {
 	color: blue;
+	text-decoration: underline;
 }
 
 .mininav {
-	position: absolute;
-	bottom: 3vw;
-	right: 5vw;
-	display: inline-flex;
+	height: 100%;
+	display: flex;
+	align-items: center;
+}
+
+.soc {
+	height: 50px;
+	display: flex;
+	align-items: center;
 }
 
 p,
@@ -155,26 +156,135 @@ p,
 	align-items: center;
 	justify-content: center;
 	width: auto;
-	height: 25px;
+	height: 35px;
 	font-size: 1vw;
 }
 
-.risd {
-	display: inline-flex;
+
+/* //LAYOUT// */
+
+
+/* //portfolio container grid// */
+
+#portfolio {
+	display: grid;
+	grid-template-columns: 20px 1fr 1fr 20px;
+	grid-template-rows: 600px 600px 600px 100px;
+	grid-column-gap: 20px;
+	grid-row-gap: 20px;
+	padding-top: 100px;
 }
 
-.gd {
-	display: inline-flex;
+#guggy {
+	grid-column: 2 /4;
+	grid-row: 1;
 }
 
-.ctc {
-	display: inline-flex;
+#phonebook {
+	grid-column: 2 / 3;
 }
 
-.cycling {
-	display: inline-flex;
+#viewbook {
+	grid-column: 3 / 4;
+	grid-row: 2;
 }
 
-.makingthings {
+#ooh {
+	grid-column: 2 / 4;
+	grid-row: 3;
+}
+
+#footer {
+	grid-column: 2 / 4;
+	grid-row: 4;
 	display: inline-flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	padding-bottom: 3vw;
+	padding-top: 100px;
+}
+
+
+/* format for portfolio pieces */
+
+.portfoliopieceformat {
+	display: grid;
+	grid-template-columns: 0px 1fr 2fr 0px;
+	grid-template-rows: 0px 1fr 1fr 0px;
+	grid-column-gap: 20px;
+	grid-row-gap: 20px;
+	transition: background 0.8s ease;
+	background: deepskyblue;
+	cursor: pointer;
+}
+
+.portfoliopieceformat:hover {
+	background: blue;
+}
+
+.description {
+	grid-column: 2/3;
+	grid-row: 2/3;
+}
+
+.portfoliopieceimage {
+	grid-column: 3/4;
+	grid-row: 2/4;
+	background: lightcoral;
+}
+
+
+/* format for portfolio square pieces */
+
+.portfoliopiecesquareformat {
+	display: grid;
+	grid-template-columns: 0px 1fr 0px;
+	grid-template-rows: 0px 1fr 7fr 0px;
+	grid-column-gap: 20px;
+	grid-row-gap: 20px;
+	transition: background 0.8s ease;
+	background: deepskyblue;
+	cursor: pointer;
+}
+
+.portfoliopiecesquareformat:hover {
+	background: blue;
+}
+
+.portfoliopiecesqaureimage {
+	grid-column: 2/3;
+	grid-row: 3/4;
+	background: lightcoral;
+}
+
+
+/* /THEMES / TYPOGRAPHY/ */
+
+@font-face {
+	font-family: SangBleuEmpire-Regular;
+	src: url(fonts/SangBleuEmpire-Regular-WebTrial.woff);
+}
+
+.sangbleu {
+	font-family: SangBleuEmpire-Regular;
+}
+
+#h1 {
+	font-family: 'Work Sans', sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+#h2 {
+	font-family: 'Work Sans', sans-serif;
+	font-size: 36px;
+	font-weight: bold;
+}
+
+#smalltext {
+	font-family: 'Work Sans', sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	padding-top: 20px;
 }

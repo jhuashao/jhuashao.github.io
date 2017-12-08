@@ -49,4 +49,11 @@ $(document).ready(function() {
   		$('.maintextcontainer').css('background', '');
   		$('.maintextcontainer').css('background-size', '');
 	});
+
+
+});
+
+$('#seemore').click(function() {
+	$('html, body').animate({ scrollTop: 820 }, 600);
+	return false;
 });
