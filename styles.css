@@ -300,7 +300,7 @@ p,
 	grid-column-gap: 20px;
 	grid-row-gap: 20px;
 	transition: background 0.8s ease;
-	background: rgb(227, 227, 227);
+	background: deepskyblue;
 	cursor: pointer;
 }
 
