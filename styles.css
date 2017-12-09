@@ -16,45 +16,106 @@ img {
 	width: 100%;
 }
 
-li{
+li {
 	list-style-type: none;
 }
 
-.headernav {
-	display: inline-flex;
-	justify-content: space-between;
-	font-size: 20px;
+a {
+	color: #FF0000;
+}
+
+
+/* unvisited link */
+
+a:visited {
+	color: #00FF00;
+}
+
+
+/* visited link */
+
+a:hover {
+	color: #FF00FF;
+}
+
+
+/* mouse over link */
+
+a:active {
+	color: #0000FF;
+}
+
+
+/* selected link */
+
+
+/* /LAYOUT/ */
+
+
+/* Navigation Bar */
+
+#headercontainer {
+	height: 100px;
+	width: 100%;
+	border-bottom: solid;
+	border-width: 0.5px;
+	display: flex;
+	align-items: center;
+}
+
+#headernav {
 	width: 400px;
 	margin-left: 7vw;
 	margin-bottom: 2vw;
 	margin-top: 2vw;
+	display: flex;
+	justify-content: space-between;
+	position: fixed;
 }
 
-#portfolionav{
+#portfolionav {
 	cursor: pointer;
 }
 
-#aboutnav{
+#aboutnav {
 	cursor: pointer;
 }
 
-#contact{
+#contact {
 	cursor: pointer;
+}
+
+
+/* Footer */
+
+#footercontainer {
+	margin-bottom: 2vw;
+	margin-top: 2vw;
+	border-bottom: solid;
+	border-width: 0.5px;
+}
+
+#footer {
+	height: 100px;
+	width: 75%;
+	margin-left: 7vw;
+	margin-right: 7vw;
+	display: inline-flex;
+	justify-content: space-between;
+	align-items: center;
 }
 
 .maintext {
 	font-size: 4vw;
-	margin-left: 5vw;
-	margin-right: 5vw;
-	margin-top: 2vw;
+	margin-left: 7vw;
+	margin-right: 7vw;
+	padding-top: 2vw;
 	margin-bottom: 3vw;
 	/* font-style: regular; */
 }
 
 .maintextcontainer {
-	padding: 10px;
 	border-bottom: solid;
-	border-top: solid;
 	border-width: 0.5px;
 }
 
@@ -64,14 +125,14 @@ li{
 	cursor: pointer;
 }
 
-a {
+#hovertext {
 	transition: color 0.5s ease;
 	color: deepskyblue;
 	outline: none;
 	text-decoration: none;
 }
 
-a:hover {
+#hovertext:hover {
 	color: blue;
 	text-decoration: underline;
 }
@@ -182,6 +243,7 @@ p,
 
 #phonebook {
 	grid-column: 2 / 3;
+	grid-row: 2;
 }
 
 #viewbook {
@@ -192,17 +254,6 @@ p,
 #ooh {
 	grid-column: 2 / 4;
 	grid-row: 3;
-}
-
-#footer {
-	grid-column: 2 / 4;
-	grid-row: 4;
-	display: inline-flex;
-	justify-content: space-between;
-	align-items: center;
-	width: 100%;
-	padding-bottom: 3vw;
-	padding-top: 100px;
 }
 
 
@@ -258,8 +309,16 @@ p,
 	background: lightcoral;
 }
 
+/* portfolio images */
+#phonebookimage{
+	background-image: url('pages/phonebook/phonebookImages/phonebookhero.png');
+    background-size: contain;
+	background-repeat: no-repeat; 
+	background-position: center;
+}
 
-/* /THEMES / TYPOGRAPHY/ */
+
+/* /THEMES / TYPOGRAPHY/ FONTS*/
 
 @font-face {
 	font-family: SangBleuEmpire-Regular;
@@ -287,4 +346,8 @@ p,
 	font-size: 18px;
 	font-weight: normal;
 	padding-top: 20px;
+}
+
+.navtext {
+	font-size: 20px;
 }

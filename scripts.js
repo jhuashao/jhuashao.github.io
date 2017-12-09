@@ -3,7 +3,7 @@ $(document).ready(function() {
 		$('.risd')
 	.mouseover(function() {
 		$('.maintextcontainer').css('background', 'url(gifs/risd.gif) repeat left center fixed');
-		$('.maintextcontainer').css('background-size', '50%');
+		$('.maintextcontainer').css('background-size', '40%');
 	})
 	.mouseout(function() {
   		$('.maintextcontainer').css('background', '');
@@ -32,8 +32,8 @@ $(document).ready(function() {
 
 		$('.cycling')
 	.mouseover(function() {
-		$('.maintextcontainer').css('background', 'url(gifs/cyclingcompress.gif) repeat left center fixed');
-		$('.maintextcontainer').css('background-size', '50%');
+		$('.maintextcontainer').css('background', 'url(gifs/cyclingtrim.gif) no-repeat center center fixed');
+		$('.maintextcontainer').css('background-size', 'cover');
 	})
 	.mouseout(function() {
 		$('.maintextcontainer').css('background', '');

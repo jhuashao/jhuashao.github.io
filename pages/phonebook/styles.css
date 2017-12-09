@@ -1,0 +1,256 @@
+@-ms-viewport {
+    width: device-width;
+}
+
+
+/* /BASE/ */
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    margin: 0;
+    width: 100%;
+    background: aliceblue;
+}
+
+img {
+    width: 100%;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+/* /LAYOUT/ */
+
+
+/* Navigation Bar */
+
+#headercontainer {
+    height: 100px;
+    width: 100%;
+    border-bottom: solid;
+    border-width: 0.5px;
+    display: flex;
+    align-items: center;
+}
+
+#headernav {
+    width: 400px;
+    margin-left: 7vw;
+    margin-bottom: 2vw;
+    margin-top: 2vw;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+}
+
+#portfolionav {
+    cursor: pointer;
+}
+
+#aboutnav {
+    cursor: pointer;
+}
+
+#contact {
+    cursor: pointer;
+}
+
+
+/* Footer */
+
+#footercontainer {
+    margin-bottom: 2vw;
+    margin-top: 2vw;
+    border-bottom: solid;
+    border-width: 0.5px;
+}
+
+#footer {
+    height: 100px;
+    width: 75%;
+    margin-left: 7vw;
+    margin-right: 7vw;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mininav {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.soc {
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+p,
+#email {
+    display: inline-flex;
+    margin: 0;
+    padding-right: 8px;
+}
+
+
+/* Main */
+
+#maincontainer {
+    width: 100%;
+}
+
+#hero {
+    margin: 7vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 600px;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+}
+
+#herotitle {
+    border-bottom: solid;
+    border-width: 0.5px;
+    grid-column: 1 / 3;
+    grid-row: 1 / 2;
+}
+
+#herodescription {
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+}
+
+#heroimage {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+    background-image: url('phonebookImages/phonebookhero.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#portfolioimagecontainer {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 600px 600px 600px 600px;
+    grid-row-gap: 20px;
+}
+
+.fullbleedimage {
+    width: 100%;
+    height: 600px;
+    min-height: 600px;
+    background-color:aliceblue;
+}
+
+.marginimage {
+    height: 600px;
+    margin-left: 7vw;
+    margin-right: 7vw;
+    background-color: aliceblue;
+}
+
+#spacebetween {
+    padding: 50px;
+}
+
+
+/* IMAGE SPECIFICS*/
+
+#phonebookbleedone {
+    background-image: url('phonebookImages/phonebookbleedone.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    grid-row: 1 / 2;
+}
+
+#phonebookcolors {
+    background-image: url('phonebookImages/phonebookcolors.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    grid-row: 2 / 3;
+}
+
+#phonebooktype{
+    background-image: url('phonebookImages/phonebooktype.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    grid-row: 3 / 4;
+}
+
+#phonebookgif{
+    background-image: url('phonebookImages/phonebook.gif');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    grid-row: 4 / 5;
+}
+
+#phonebooksue{
+    background-image: url('phonebookImages/phonebooksue.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    grid-row: 5 / 6;
+}
+
+#phonebookbleedtwo{
+    background-image: url('phonebookImages/phonebookbleedtwo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    grid-row: 6 / 7;
+}
+
+
+/* /MODULE/ */
+
+
+/* /STATE/ */
+
+
+/* /THEMES / TYPOGRAPHY/ FONTS/*/
+
+@font-face {
+    font-family: SangBleuEmpire-Regular;
+    src: url(../../fonts/SangBleuEmpire-Regular-WebTrial.woff);
+}
+
+.sangbleu {
+    font-family: SangBleuEmpire-Regular;
+}
+
+#h1 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+#h2 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#bodytext {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+}
+
+#smalltext {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    padding-top: 20px;
+}
+
+.navtext {
+    font-size: 20px;
+}
