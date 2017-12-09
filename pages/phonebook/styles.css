@@ -20,6 +20,9 @@ li {
     list-style-type: none;
 }
 
+p{
+    padding-bottom: 20px;
+}
 
 /* /LAYOUT/ */
 
