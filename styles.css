@@ -41,9 +41,10 @@ a:hover {
 
 /* mouse over link */
 
-a:active {
+
+/* a:active {
 	color: blue;
-}
+} */
 
 
 /* p{
@@ -338,12 +339,13 @@ p,
 	background-position: center;
 }
 
-#guggyimage{
+#guggyimage {
 	background-image: url('pages/guggy/guggyImages/guggy.gif');
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
 }
+
 
 /* /THEMES / TYPOGRAPHY/ FONTS*/
 
