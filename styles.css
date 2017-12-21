@@ -2,7 +2,6 @@
 	width: device-width;
 }
 
-
 /* /BASE/ */
 
 body {
@@ -24,20 +23,17 @@ a {
 	color: #black;
 }
 
-
 /* unvisited link */
 
 a:visited {
 	color: black;
 }
 
-
 /* visited link */
-
+/* 
 a:hover {
 	color: whitesmoke;
-}
-
+} */
 
 /* mouse over link */
 
@@ -64,7 +60,7 @@ a:hover {
 	height: 100px;
 	width: 100%;
 	border-bottom: solid;
-	border-width: 0.5px;
+	border-width: 0.1px;
 	display: flex;
 	align-items: center;
 }
@@ -98,7 +94,7 @@ a:hover {
 	margin-bottom: 2vw;
 	margin-top: 2vw;
 	border-bottom: solid;
-	border-width: 0.5px;
+	border-width: 0.1px;
 }
 
 #footer {
@@ -272,12 +268,14 @@ p,
 	grid-column-gap: 20px;
 	grid-row-gap: 20px;
 	transition: background 0.8s ease;
-	background: deepskyblue;
+	background: ghostwhite;
+	border: solid;
+	border-width: 0.1px;
 	cursor: pointer;
 }
 
 .portfoliopieceformat:hover {
-	background: darkblue;
+	background: rgb(161, 224, 245);
 }
 
 .description {
@@ -288,7 +286,7 @@ p,
 .portfoliopieceimage {
 	grid-column: 3/4;
 	grid-row: 2/4;
-	background: deepskyblue;
+	background: ghostwhite);
 }
 
 
@@ -301,18 +299,20 @@ p,
 	grid-column-gap: 20px;
 	grid-row-gap: 20px;
 	transition: background 0.8s ease;
-	background: deepskyblue;
+	background: ghostwhite;
+	border: solid;
+	border-width: 0.1px;
 	cursor: pointer;
 }
 
 .portfoliopiecesquareformat:hover {
-	background: darkblue;
+	background: rgb(161, 224, 245);
 }
 
 .portfoliopiecesqaureimage {
 	grid-column: 2/3;
 	grid-row: 3/4;
-	background: deepskyblue);
+	background: ghostwhite);
 }
 
 
