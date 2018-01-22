@@ -2,6 +2,48 @@
 	width: device-width;
 }
 
+
+  nav{
+	width:100%;
+  }
+  nav ul li{
+	display:inline-block;
+	list-style:none;
+	width:160px;
+	text-align:center;
+	font-family:Helvetica, sans-serif;
+	border: 1px dashed rgba(255,255,255, 0);
+	color:#fff;
+	padding:10px 0 10px 0;
+	margin:-1px -5px -1px -1px;
+	cursor:pointer;
+	transition:all .2s;
+	-webkit-transition:all .2s;
+  }
+  
+  nav ul li:hover{
+	/*border:1px dashed #fff;*/
+	background:rgba(255,255,255,.1);
+  }
+  nav ul{
+	border: 1px solid #fff;
+	position:absolute;
+	width:100%;
+	padding:0;
+	z-index:100;
+  }
+  nav div{
+	position:absolute;
+	left:0;
+	top:16px;
+	background: #fff;
+	width:162px;
+	height:40px;
+	z-index:99;
+  }
+  .active{
+	color:rgba(55, 186, 177, 1);
+  }
 /* /BASE/ */
 
 body {
