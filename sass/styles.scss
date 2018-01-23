@@ -13,7 +13,7 @@ h4 {
     line-height: 110%;
     margin: 1.14rem 0 0.912rem 0;
 }
-
+ 
 @media only screen and (max-width: 450px) {
     h4 {
         font-size: 2rem;
@@ -62,6 +62,10 @@ $padding-standard: 100px;
 
 html {
     font-family: 'Work Sans', sans-serif;
+}
+
+body {
+    background-color: #F1F8FF;
 }
 
 .container {
@@ -148,7 +152,14 @@ nav {
     }
 }
 
-//
+@media (min-width: 1280px) {
+    .maintextcontainer {
+        .maintext {
+            font-size: 72px;
+        }
+    }
+}
+
 
 /* Portfolio Piece Cards -------------------------------------------------*/
 
@@ -163,13 +174,10 @@ nav {
     #about {
         padding-top: $padding-standard;
         .row {
-            .abouttextcontainer {
-                
-            }
+            .abouttextcontainer {}
         }
     }
 }
-
 
 @media (max-width: 600px) {
     .container {
@@ -263,14 +271,6 @@ nav {
 }
 
 
-
-
-/* Hero-----------------------------*/
-
-
-/* Image containers--------------------*/
-
-
 /* Page-Footer-------------------------------------------------*/
 
 footer {
@@ -305,8 +305,3 @@ footer {
         flex-direction: column;
     }
 }
-
-
-/* IMAGE SPECIFICS*/
-
-//

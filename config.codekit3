@@ -106,11 +106,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/gifs\/cyclingtrim.gif": {
+	"\/gifs\/cycling.gif": {
 		"ft": 4194304,
-		"iS": 25326648,
+		"iS": 4464776,
 		"oA": 0,
-		"oAP": "\/gifs\/cyclingtrim.gif",
+		"oAP": "\/gifs\/cycling.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -124,17 +124,9 @@
 		},
 	"\/gifs\/knots.gif": {
 		"ft": 4194304,
-		"iS": 11751079,
-		"oA": 0,
-		"oAP": "\/gifs\/knots.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/gifs\/knotscompress.gif": {
-		"ft": 4194304,
 		"iS": 3748168,
 		"oA": 0,
-		"oAP": "\/gifs\/knotscompress.gif",
+		"oAP": "\/gifs\/knots.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -153,17 +145,6 @@
 		"oAP": "\/gorham.html",
 		"oF": 0
 		},
-	"\/guggy.png": {
-		"ft": 32768,
-		"iS": 949412,
-		"oA": 0,
-		"oAP": "\/guggy.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/images\/about\/about.jpeg": {
 		"ft": 16384,
 		"iS": 187420,
@@ -180,8 +161,8 @@
 		"oA": 0,
 		"oAP": "\/images\/caiguoqiang\/caiguoqiang.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -330,8 +311,8 @@
 		"oA": 0,
 		"oAP": "\/images\/gorham\/5.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -363,8 +344,8 @@
 		"oA": 0,
 		"oAP": "\/images\/gorham\/8.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -385,27 +366,16 @@
 		"oA": 0,
 		"oAP": "\/images\/gorham\/gorham.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/gorham\/hello.png": {
+	"\/images\/gorham\/hero.png": {
 		"ft": 32768,
 		"iS": 449395,
 		"oA": 0,
-		"oAP": "\/images\/gorham\/hello.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/gorham\/palette copy.png": {
-		"ft": 32768,
-		"iS": 344729,
-		"oA": 0,
-		"oAP": "\/images\/gorham\/palette copy.png",
+		"oAP": "\/images\/gorham\/hero.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -414,12 +384,12 @@
 		},
 	"\/images\/gorham\/palette.png": {
 		"ft": 32768,
-		"iS": 17459,
+		"iS": 344729,
 		"oA": 0,
 		"oAP": "\/images\/gorham\/palette.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -429,8 +399,8 @@
 		"oA": 0,
 		"oAP": "\/images\/home\/caiguoqiang.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -447,8 +417,8 @@
 		"oA": 0,
 		"oAP": "\/images\/home\/gorham.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -458,8 +428,8 @@
 		"oA": 0,
 		"oAP": "\/images\/home\/justlovehere.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -487,8 +457,8 @@
 		"oA": 0,
 		"oAP": "\/images\/home\/phonebook.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -512,8 +482,8 @@
 		"oA": 0,
 		"oAP": "\/images\/home\/viewbook.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -523,8 +493,8 @@
 		"oA": 0,
 		"oAP": "\/images\/home\/zxx.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -576,8 +546,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ooh\/redesign\/responsiveness\/homepage.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -587,8 +557,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ooh\/redesign\/responsiveness\/mobile.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -598,8 +568,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ooh\/redesign\/responsiveness\/tablet.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -609,8 +579,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ooh\/redesign\/wireframes\/categorical.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -620,8 +590,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ooh\/redesign\/wireframes\/employment.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -631,8 +601,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ooh\/redesign\/wireframes\/faq.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -642,8 +612,8 @@
 		"oA": 0,
 		"oAP": "\/images\/ooh\/redesign\/wireframes\/home.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -775,8 +745,8 @@
 		"oA": 0,
 		"oAP": "\/images\/phaseone\/phaseonehome.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -839,8 +809,8 @@
 		"oA": 0,
 		"oAP": "\/images\/phaseone\/test2.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1735,275 +1705,6 @@
 		"oAP": "\/ooh.html",
 		"oF": 0
 		},
-	"\/pages\/guggy\/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/pages\/guggy\/styles-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/pages\/ooh\/oohImages\/ooh.gif": {
-		"ft": 4194304,
-		"iS": 8716284,
-		"oA": 0,
-		"oAP": "\/pages\/ooh\/oohImages\/ooh.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/pages\/ooh\/oohImages\/ooh.png": {
-		"ft": 32768,
-		"iS": 853544,
-		"oA": 0,
-		"oAP": "\/pages\/ooh\/oohImages\/ooh.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/ooh\/oohImages\/oohhero.png": {
-		"ft": 32768,
-		"iS": 462675,
-		"oA": 0,
-		"oAP": "\/pages\/ooh\/oohImages\/oohhero.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/ooh\/oohImages\/oohlayout.png": {
-		"ft": 32768,
-		"iS": 1862408,
-		"oA": 0,
-		"oAP": "\/pages\/ooh\/oohImages\/oohlayout.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/ooh\/oohImages\/responsiveredesign.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/pages\/ooh\/oohImages\/responsiveredesign.pdf",
-		"oF": 0
-		},
-	"\/pages\/ooh\/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/pages\/ooh\/styles-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/pages\/phonebook\/phonebookImages\/phonebook.gif": {
-		"ft": 4194304,
-		"iS": 10160043,
-		"oA": 0,
-		"oAP": "\/pages\/phonebook\/phonebookImages\/phonebook.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/pages\/phonebook\/phonebookImages\/phonebookbleedone.png": {
-		"ft": 32768,
-		"iS": 7072076,
-		"oA": 0,
-		"oAP": "\/pages\/phonebook\/phonebookImages\/phonebookbleedone.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/phonebook\/phonebookImages\/phonebookbleedtwo.png": {
-		"ft": 32768,
-		"iS": 6268008,
-		"oA": 0,
-		"oAP": "\/pages\/phonebook\/phonebookImages\/phonebookbleedtwo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/phonebook\/phonebookImages\/phonebookcolors.png": {
-		"ft": 32768,
-		"iS": 99846,
-		"oA": 0,
-		"oAP": "\/pages\/phonebook\/phonebookImages\/phonebookcolors.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/phonebook\/phonebookImages\/phonebookhero.png": {
-		"ft": 32768,
-		"iS": 1781295,
-		"oA": 0,
-		"oAP": "\/pages\/phonebook\/phonebookImages\/phonebookhero.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/phonebook\/phonebookImages\/phonebooksue.png": {
-		"ft": 32768,
-		"iS": 6012839,
-		"oA": 0,
-		"oAP": "\/pages\/phonebook\/phonebookImages\/phonebooksue.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/phonebook\/phonebookImages\/phonebooktype.png": {
-		"ft": 32768,
-		"iS": 211460,
-		"oA": 0,
-		"oAP": "\/pages\/phonebook\/phonebookImages\/phonebooktype.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/phonebook\/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/pages\/phonebook\/styles-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/pages\/viewbook\/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/pages\/viewbook\/styles-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/pages\/viewbook\/viewbookImages\/viewbook.gif": {
-		"ft": 4194304,
-		"iS": 13125267,
-		"oA": 0,
-		"oAP": "\/pages\/viewbook\/viewbookImages\/viewbook.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/pages\/viewbook\/viewbookImages\/viewbookeight.png": {
-		"ft": 32768,
-		"iS": 2917046,
-		"oA": 0,
-		"oAP": "\/pages\/viewbook\/viewbookImages\/viewbookeight.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/viewbook\/viewbookImages\/viewbookfive.png": {
-		"ft": 32768,
-		"iS": 2848494,
-		"oA": 0,
-		"oAP": "\/pages\/viewbook\/viewbookImages\/viewbookfive.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/viewbook\/viewbookImages\/viewbookfour.png": {
-		"ft": 32768,
-		"iS": 2885186,
-		"oA": 0,
-		"oAP": "\/pages\/viewbook\/viewbookImages\/viewbookfour.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/viewbook\/viewbookImages\/viewbookhero.png": {
-		"ft": 32768,
-		"iS": 1919671,
-		"oA": 0,
-		"oAP": "\/pages\/viewbook\/viewbookImages\/viewbookhero.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/viewbook\/viewbookImages\/viewbookone.png": {
-		"ft": 32768,
-		"iS": 3091911,
-		"oA": 0,
-		"oAP": "\/pages\/viewbook\/viewbookImages\/viewbookone.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/viewbook\/viewbookImages\/viewbookseven.png": {
-		"ft": 32768,
-		"iS": 2318263,
-		"oA": 0,
-		"oAP": "\/pages\/viewbook\/viewbookImages\/viewbookseven.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/viewbook\/viewbookImages\/viewbooksix.png": {
-		"ft": 32768,
-		"iS": 2766872,
-		"oA": 0,
-		"oAP": "\/pages\/viewbook\/viewbookImages\/viewbooksix.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/viewbook\/viewbookImages\/viewbookthree.png": {
-		"ft": 32768,
-		"iS": 2881584,
-		"oA": 0,
-		"oAP": "\/pages\/viewbook\/viewbookImages\/viewbookthree.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/pages\/viewbook\/viewbookImages\/viewbooktwo.png": {
-		"ft": 32768,
-		"iS": 2972006,
-		"oA": 0,
-		"oAP": "\/pages\/viewbook\/viewbookImages\/viewbooktwo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/phaseone.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -2036,93 +1737,11 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/resume\/print\/printresume.pdf": {
+	"\/resume\/printresume.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/resume\/print\/printresume.pdf",
-		"oF": 0
-		},
-	"\/resume\/web\/css\/resume.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/resume\/web\/css\/resume-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/resume\/web\/css\/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/resume\/web\/css\/styles-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/resume\/web\/images\/pic1.jpg": {
-		"ft": 16384,
-		"iS": 154381,
-		"oA": 0,
-		"oAP": "\/resume\/web\/images\/pic1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/resume\/web\/resume.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/resume\/web\/resume.html",
-		"oF": 0
-		},
-	"\/RETIREDDOCS\/guggy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/RETIREDDOCS\/guggy.html",
-		"oF": 0
-		},
-	"\/RETIREDDOCS\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/RETIREDDOCS\/index.html",
-		"oF": 0
-		},
-	"\/RETIREDDOCS\/ooh.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/RETIREDDOCS\/ooh.html",
-		"oF": 0
-		},
-	"\/RETIREDDOCS\/phonebook.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/RETIREDDOCS\/phonebook.html",
-		"oF": 0
-		},
-	"\/RETIREDDOCS\/scripts.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/RETIREDDOCS\/scripts-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/RETIREDDOCS\/viewbook.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/RETIREDDOCS\/viewbook.html",
+		"oAP": "\/resume\/printresume.pdf",
 		"oF": 0
 		},
 	"\/sass\/about.scss": {
@@ -2672,7 +2291,7 @@
 		"uL": 1
 		},
 	"\/sass\/styles.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -2681,7 +2300,7 @@
 		"oA": 0,
 		"oAP": "\/css\/styles.css",
 		"oF": 3,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/scripts-min.js": {
