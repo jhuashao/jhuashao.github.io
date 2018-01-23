@@ -53,10 +53,10 @@ h4 {
 
 $primary-color: #00BEFF;
 $padding-standard: 100px;
-
-.padding-standard{
+.padding-standard {
     padding-top: $padding-standard;
 }
+
 
 /* Base-------------------------------------------------*/
 
@@ -99,7 +99,6 @@ nav {
                     will-change: left, right;
                     opacity: 0.2
                 }
-            
             }
         }
     }
@@ -164,18 +163,19 @@ nav {
     #about {
         padding-top: $padding-standard;
         .row {
-            padding-bottom: 60px;
-            .abouttextcontainer {}
+            .abouttextcontainer {
+                
+            }
         }
     }
 }
+
 
 @media (max-width: 600px) {
     .container {
         #about {
             padding-top: $padding-standard;
             .row {
-                padding-bottom: 60px;
                 .abouttextcontainer {
                     padding-top: 20px;
                 }
@@ -258,8 +258,15 @@ nav {
     font-weight: bold;
 }
 
-.fullwidthvideo{
-    width:100%;
+.fullwidthvideo {
+    width: 100%;
+}
+
+.carousel {
+    .carousel-item>img {
+        width: auto;
+        height:100%;
+    }
 }
 
 
@@ -274,6 +281,7 @@ nav {
 footer {
     display: flex;
     justify-content: space-between;
+    padding-bottom: 20px;
     .mininav .soc {
         height: 50px;
         display: flex;

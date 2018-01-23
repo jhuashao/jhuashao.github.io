@@ -113,16 +113,12 @@ nav {
 /* About Text Container -------------------------------------------------*/
 .container #about {
   padding-top: 100px; }
-  .container #about .row {
-    padding-bottom: 60px; }
 
 @media (max-width: 600px) {
   .container #about {
     padding-top: 100px; }
-    .container #about .row {
-      padding-bottom: 60px; }
-      .container #about .row .abouttextcontainer {
-        padding-top: 20px; } }
+    .container #about .row .abouttextcontainer {
+      padding-top: 20px; } }
 
 /* Portfolio Piece-------------------------------------------------*/
 .row .browser {
@@ -186,12 +182,17 @@ nav {
 .fullwidthvideo {
   width: 100%; }
 
+.carousel .carousel-item > img {
+  width: auto;
+  height: 100%; }
+
 /* Hero-----------------------------*/
 /* Image containers--------------------*/
 /* Page-Footer-------------------------------------------------*/
 footer {
   display: flex;
-  justify-content: space-between; }
+  justify-content: space-between;
+  padding-bottom: 20px; }
   footer .mininav .soc {
     height: 50px;
     display: flex;

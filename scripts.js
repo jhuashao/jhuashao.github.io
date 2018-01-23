@@ -66,3 +66,5 @@ $('#seemore').click(function () {
   }, 600);
   return false;
 });
+
+$('.carousel.carousel-slider').carousel({fullWidth: true});
