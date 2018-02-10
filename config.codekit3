@@ -7,7 +7,7 @@
 		"uuidString": "83B09228-4D4D-4106-845E-B1892A4E8DD0"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26261",
 "files": {
 	"\/.vscode\/settings.json": {
 		"ft": 524288,
@@ -458,6 +458,16 @@
 		"oAP": "\/images\/home\/phaseone.webm",
 		"oF": 0
 		},
+	"\/images\/home\/phasetwo.jpg": {
+		"ft": 16384,
+		"iS": 120912,
+		"oA": 0,
+		"oAP": "\/images\/home\/phasetwo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/home\/phonebook.png": {
 		"ft": 32768,
 		"iS": 291295,
@@ -795,17 +805,6 @@
 		"oAP": "\/images\/phaseone\/experimental\/experimental5.webm",
 		"oF": 0
 		},
-	"\/images\/phaseone\/phaseonehome.png": {
-		"ft": 32768,
-		"iS": 305968,
-		"oA": 0,
-		"oAP": "\/images\/phaseone\/phaseonehome.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"\/images\/phaseone\/proximity\/basicproximity\/basicproximity.mp4": {
 		"cB": 0,
 		"ft": 8192,
@@ -889,28 +888,6 @@
 		"oA": 0,
 		"oAP": "\/images\/phaseone\/proximity\/proxitysensor_copysave.webm",
 		"oF": 0
-		},
-	"\/images\/phaseone\/test.png": {
-		"ft": 32768,
-		"iS": 103662,
-		"oA": 0,
-		"oAP": "\/images\/phaseone\/test.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/phaseone\/test2.png": {
-		"ft": 32768,
-		"iS": 523273,
-		"oA": 0,
-		"oAP": "\/images\/phaseone\/test2.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
 		},
 	"\/images\/phaseone\/tilt\/basictilt_bottom.mp4": {
 		"cB": 0,
@@ -1149,6 +1126,216 @@
 		"oA": 0,
 		"oAP": "\/images\/phaseone\/tilt\/precisiontilt\/precisionttilt_chain.webm",
 		"oF": 0
+		},
+	"\/images\/phasetwo\/1.jpg": {
+		"ft": 16384,
+		"iS": 280244,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/phasetwo\/2.jpg": {
+		"ft": 16384,
+		"iS": 210938,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/phasetwo\/alice\/alice.gif": {
+		"ft": 4194304,
+		"iS": 1117106,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/alice\/alice.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/phasetwo\/alice\/cheshire.jpg": {
+		"ft": 16384,
+		"iS": 418445,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/alice\/cheshire.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/phasetwo\/arrow\/arrowdown.png": {
+		"ft": 32768,
+		"iS": 9612,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/arrow\/arrowdown.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/phasetwo\/arrow\/arrowlefttoright.png": {
+		"ft": 32768,
+		"iS": 285,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/arrow\/arrowlefttoright.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/phasetwo\/distraction\/flexibility.gif": {
+		"ft": 4194304,
+		"iS": 1638819,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/distraction\/flexibility.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/phasetwo\/distraction\/gesture.gif": {
+		"ft": 4194304,
+		"iS": 989859,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/distraction\/gesture.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/phasetwo\/distraction\/interface.gif": {
+		"ft": 4194304,
+		"iS": 1535315,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/distraction\/interface.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/phasetwo\/distraction\/ml.gif": {
+		"ft": 4194304,
+		"iS": 744857,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/distraction\/ml.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/phasetwo\/distraction\/trust.gif": {
+		"ft": 4194304,
+		"iS": 9971499,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/distraction\/trust.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/phasetwo\/flicc.png": {
+		"ft": 32768,
+		"iS": 120462,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/flicc.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/phasetwo\/google.png": {
+		"ft": 32768,
+		"iS": 230329,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/google.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/phasetwo\/ifttt.jpg": {
+		"ft": 16384,
+		"iS": 2063,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/ifttt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/phasetwo\/iphone\/iphone.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/iphone\/iphone.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/iphone\/iphone8.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/iphone\/iphone8.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/lightphone.png": {
+		"ft": 32768,
+		"iS": 25144,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/lightphone.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/phasetwo\/phasetwo.jpg": {
+		"ft": 16384,
+		"iS": 120912,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/phasetwo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/phasetwo\/siempo.png": {
+		"ft": 32768,
+		"iS": 143174,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/siempo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/phasetwo\/test.jpg": {
+		"ft": 16384,
+		"iS": 48647,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/test.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/phasetwo\/test.png": {
+		"ft": 32768,
+		"iS": 1042261,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/test.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/phasetwo\/workflow.png": {
+		"ft": 32768,
+		"iS": 14011,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/workflow.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/phonebook\/1.png": {
 		"ft": 32768,
@@ -1927,6 +2114,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/phaseone.html",
+		"oF": 0
+		},
+	"\/phasetwo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/phasetwo.html",
 		"oF": 0
 		},
 	"\/phonebook.html": {
@@ -3185,6 +3379,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
