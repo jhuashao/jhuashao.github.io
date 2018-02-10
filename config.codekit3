@@ -468,6 +468,13 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/home\/phasetwo.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/home\/phasetwo.mp4",
+		"oF": 0
+		},
 	"\/images\/home\/phonebook.png": {
 		"ft": 32768,
 		"iS": 291295,
@@ -1227,6 +1234,52 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/phasetwo\/distractions\/heart.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/distractions\/heart.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/distractions\/infinite.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/distractions\/infinite.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/distractions\/pulltorefresh.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/distractions\/pulltorefresh.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/features\/controlcenter.png": {
+		"ft": 32768,
+		"iS": 704602,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/features\/controlcenter.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/phasetwo\/features\/progressandcompletion.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/features\/progressandcompletion.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/features\/proximitysensorpush.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/features\/proximitysensorpush.mp4",
+		"oF": 0
+		},
 	"\/images\/phasetwo\/flicc.png": {
 		"ft": 32768,
 		"iS": 120462,
@@ -1273,6 +1326,34 @@
 		"oAP": "\/images\/phasetwo\/iphone\/iphone8.mp4",
 		"oF": 0
 		},
+	"\/images\/phasetwo\/keyframes\/completion.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/keyframes\/completion.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/keyframes\/controlcenter.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/keyframes\/controlcenter.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/keyframes\/gesture.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/keyframes\/gesture.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/keyframes\/progress.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/keyframes\/progress.mp4",
+		"oF": 0
+		},
 	"\/images\/phasetwo\/lightphone.png": {
 		"ft": 32768,
 		"iS": 25144,
@@ -1284,6 +1365,48 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/images\/phasetwo\/manualmp4\/instagramclip.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/manualmp4\/instagramclip.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/manualmp4\/mapsclip.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/manualmp4\/mapsclip.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/manualmp4\/spotifyclip.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/manualmp4\/spotifyclip.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/manualmp4\/stravaclip.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/manualmp4\/stravaclip.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/manualmp4\/textoneclip.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/manualmp4\/textoneclip.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/manualmp4\/texttwoclip.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/manualmp4\/texttwoclip.mp4",
+		"oF": 0
+		},
 	"\/images\/phasetwo\/phasetwo.jpg": {
 		"ft": 16384,
 		"iS": 120912,
@@ -1294,32 +1417,18 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/phasetwo\/phasetwo.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/phasetwo.mp4",
+		"oF": 0
+		},
 	"\/images\/phasetwo\/siempo.png": {
 		"ft": 32768,
 		"iS": 143174,
 		"oA": 0,
 		"oAP": "\/images\/phasetwo\/siempo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/phasetwo\/test.jpg": {
-		"ft": 16384,
-		"iS": 48647,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/test.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/phasetwo\/test.png": {
-		"ft": 32768,
-		"iS": 1042261,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/test.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
