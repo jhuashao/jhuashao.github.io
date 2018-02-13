@@ -20,6 +20,15 @@ h4 {
     }
 }
 
+@font-face {
+    font-family: 'sangBleu';
+    src: url('../fonts/SangBleuEmpire-Regular-WebTrial.woff') format('woff')
+}
+
+.sangbleu {
+    font-family: 'sangBleu';
+}
+
 .caption {
     font-size: 12px;
 }
@@ -44,6 +53,7 @@ h4 {
 }
 
 #hovertext:hover {
+    font-family: 'sangBleu';
     color: blue;
     text-decoration: underline;
 }
@@ -63,14 +73,14 @@ h4 {
     font-weight: 400;
 }
 
-.bodytextsmall{
+.bodytextsmall {
     font-size: 18px;
     line-height: 150%;
     font-weight: 200;
 }
 
-.bodytextsmall-bold{
-    font-weight:400;
+.bodytextsmall-bold {
+    font-weight: 400;
 }
 
 // use caption
@@ -104,7 +114,6 @@ $padding-standard: 100px;
 html {
     font-family: 'Work Sans', sans-serif;
 }
-
 
 .container {
     width: 90%;
@@ -305,22 +314,21 @@ nav {
 }
 
 // phasetwo
-
-.arrow{
-    height:80%;
+.arrow {
+    height: 80%;
     display: flex;
 }
 
-.arrow-align{
+.arrow-align {
     align-self: center;
 }
 
-.arrowdownwrapper{
+.arrowdownwrapper {
     display: flex;
     justify-content: center;
 }
 
-.arrowdown{
+.arrowdown {
     width: 43%;
 }
 
