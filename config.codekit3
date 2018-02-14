@@ -1110,7 +1110,7 @@
 		"oAP": "\/images\/phasetwo\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/phasetwo\/2.jpg": {
@@ -1149,7 +1149,7 @@
 		},
 	"\/images\/phasetwo\/arrow\/arrowdown.png": {
 		"ft": 32768,
-		"iS": 1707,
+		"iS": 9612,
 		"oA": 0,
 		"oAP": "\/images\/phasetwo\/arrow\/.arrowdown~imageoptim.png",
 		"oF": 0,
@@ -1176,25 +1176,11 @@
 		"oAP": "\/images\/phasetwo\/distractions\/heart.mp4",
 		"oF": 0
 		},
-	"\/images\/phasetwo\/distractions\/heart.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/distractions\/heart.webm",
-		"oF": 0
-		},
 	"\/images\/phasetwo\/distractions\/infinite.mp4": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/images\/phasetwo\/distractions\/infinite.mp4",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/distractions\/infinite.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/distractions\/infinite.webm",
 		"oF": 0
 		},
 	"\/images\/phasetwo\/distractions\/pulltorefresh.mp4": {
@@ -1204,23 +1190,12 @@
 		"oAP": "\/images\/phasetwo\/distractions\/pulltorefresh.mp4",
 		"oF": 0
 		},
-	"\/images\/phasetwo\/distractions\/pulltorefresh.webm": {
+	"\/images\/phasetwo\/features\/controlcenter720.mp4": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/images\/phasetwo\/distractions\/pulltorefresh.webm",
+		"oAP": "\/images\/phasetwo\/features\/controlcenter720.mp4",
 		"oF": 0
-		},
-	"\/images\/phasetwo\/features\/controlcenter.png": {
-		"ft": 32768,
-		"iS": 704602,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/features\/controlcenter.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
 		},
 	"\/images\/phasetwo\/features\/progressandcompletion.mp4": {
 		"cB": 0,
@@ -1250,6 +1225,13 @@
 		"oAP": "\/images\/phasetwo\/features\/proximitysensorpush.webm",
 		"oF": 0
 		},
+	"\/images\/phasetwo\/features\/trackingprogress720.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/features\/trackingprogress720.mp4",
+		"oF": 0
+		},
 	"\/images\/phasetwo\/flicc.png": {
 		"ft": 32768,
 		"iS": 120462,
@@ -1258,17 +1240,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/phasetwo\/google.png": {
-		"ft": 32768,
-		"iS": 230329,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/google.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1352,32 +1323,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/phasetwo\/iphone\/iphone.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/iphone\/iphone.mp4",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/iphone\/iphone8.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/iphone\/iphone8.mp4",
-		"oF": 0
-		},
 	"\/images\/phasetwo\/keyframes\/completion.mp4": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/images\/phasetwo\/keyframes\/completion.mp4",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/keyframes\/completion.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/keyframes\/completion.webm",
 		"oF": 0
 		},
 	"\/images\/phasetwo\/keyframes\/controlcenter.mp4": {
@@ -1387,13 +1337,6 @@
 		"oAP": "\/images\/phasetwo\/keyframes\/controlcenter.mp4",
 		"oF": 0
 		},
-	"\/images\/phasetwo\/keyframes\/controlcenter.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/keyframes\/controlcenter.webm",
-		"oF": 0
-		},
 	"\/images\/phasetwo\/keyframes\/gesture.mp4": {
 		"cB": 0,
 		"ft": 8192,
@@ -1401,25 +1344,11 @@
 		"oAP": "\/images\/phasetwo\/keyframes\/gesture.mp4",
 		"oF": 0
 		},
-	"\/images\/phasetwo\/keyframes\/gesture.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/keyframes\/gesture.webm",
-		"oF": 0
-		},
 	"\/images\/phasetwo\/keyframes\/progress.mp4": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/images\/phasetwo\/keyframes\/progress.mp4",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/keyframes\/progress.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/keyframes\/progress.webm",
 		"oF": 0
 		},
 	"\/images\/phasetwo\/lightphone.png": {
@@ -1431,58 +1360,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
-		},
-	"\/images\/phasetwo\/manualmp4\/instagramclip.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/manualmp4\/instagramclip.mp4",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/manualmp4\/mapsclip.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/manualmp4\/mapsclip.mp4",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/manualmp4\/spotifyclip.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/manualmp4\/spotifyclip.mp4",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/manualmp4\/stravaclip.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/manualmp4\/stravaclip.mp4",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/manualmp4\/textoneclip.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/manualmp4\/textoneclip.mp4",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/manualmp4\/texttwoclip.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/manualmp4\/texttwoclip.mp4",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/phasetwo.jpg": {
-		"ft": 16384,
-		"iS": 120912,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/phasetwo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"\/images\/phasetwo\/phasetwo.mp4": {
@@ -1509,6 +1386,20 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/images\/phasetwo\/usecase\/automation.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/usecase\/automation.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/usecase\/manual.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/usecase\/manual.mp4",
+		"oF": 0
 		},
 	"\/images\/phasetwo\/workflow.png": {
 		"ft": 32768,
