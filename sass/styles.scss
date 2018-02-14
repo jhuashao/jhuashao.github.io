@@ -1,3 +1,11 @@
+/* COLOR PALLETTE-------------------------------------------------*/
+
+$primary-color: #00BEFF;
+$padding-standard: 100px;
+.padding-standard {
+    padding-top: $padding-standard;
+}
+
 /* TYPOGRAPHY-------------------------------------------------*/
 
 .flow-text {
@@ -53,7 +61,6 @@ h4 {
 }
 
 #hovertext:hover {
-    font-family: 'sangBleu';
     color: blue;
     text-decoration: underline;
 }
@@ -67,7 +74,28 @@ h4 {
     margin: 0px;
 }
 
+.bodytextwhite {
+    font-size: 36px;
+    line-height: 150%;
+    font-weight: 400;
+    margin: 0px;
+    color: white;
+}
+
 .bodytextmid {
+    font-size: 24px;
+    line-height: 150%;
+    font-weight: 300;
+}
+
+.bodytextmidwhite {
+    font-size: 24px;
+    line-height: 150%;
+    font-weight: 300;
+    color: white;
+}
+
+.bodytextmidbold {
     font-size: 24px;
     line-height: 150%;
     font-weight: 400;
@@ -76,17 +104,25 @@ h4 {
 .bodytextsmall {
     font-size: 18px;
     line-height: 150%;
-    font-weight: 200;
+    font-weight: 300;
 }
 
-.bodytextsmall-bold {
+.bodytextsmallbold {
+    font-size: 18px;
+    line-height: 150%;
     font-weight: 400;
 }
 
 // use caption
 // spacing + padding
-.specialgaps {
+.backgroundgap {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.specialgap {
     padding-top: 300px;
+    padding-bottom: 300px;
 }
 
 .generalspacing {
@@ -101,12 +137,21 @@ h4 {
     padding-top: 20px;
 }
 
-/* COLOR PALLETTE-------------------------------------------------*/
+// Background coloring
+.bluebackground {
+    background: rgb(173, 235, 255);
+}
 
-$primary-color: #00BEFF;
-$padding-standard: 100px;
-.padding-standard {
-    padding-top: $padding-standard;
+.blackbackground {
+    background: black;
+}
+
+.redbackground {
+    background: #D0021B;
+}
+
+.greybackground{
+    background: #ECECEC;
 }
 
 /* Base-------------------------------------------------*/

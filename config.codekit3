@@ -404,13 +404,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/home\/flicktilt_tiltasswipe.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/home\/flicktilt_tiltasswipe.webm",
-		"oF": 0
-		},
 	"\/images\/home\/gorham.png": {
 		"ft": 32768,
 		"iS": 269902,
@@ -458,16 +451,6 @@
 		"oAP": "\/images\/home\/phaseone\/phaseone.webm",
 		"oF": 0
 		},
-	"\/images\/home\/phasetwo.jpg": {
-		"ft": 16384,
-		"iS": 120912,
-		"oA": 0,
-		"oAP": "\/images\/home\/phasetwo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/images\/home\/phasetwo\/phasetwo.mp4": {
 		"cB": 0,
 		"ft": 8192,
@@ -485,20 +468,6 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
-		},
-	"\/images\/home\/test.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/home\/test.webm",
-		"oF": 0
-		},
-	"\/images\/home\/test2.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/home\/test2.webm",
-		"oF": 0
 		},
 	"\/images\/home\/viewbook.png": {
 		"ft": 32768,
@@ -1521,6 +1490,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/images\/phasetwo\/phasetwo.mp4",
+		"oF": 0
+		},
+	"\/images\/phasetwo\/phasetwo720.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/phasetwo720.mp4",
 		"oF": 0
 		},
 	"\/images\/phasetwo\/siempo.png": {
