@@ -11,7 +11,7 @@ $(document).ready(function () {
 
 $('.risd')
   .mouseover(function () {
-    $('.maintextcontainer').css('background', 'url(gifs/risd.gif) repeat left center fixed');
+    $('.maintextcontainer').css('background', 'url(gifs/risdcompress.gif) repeat left center fixed');
     $('.maintextcontainer').css('background-size', '40%');
   })
   .mouseout(function () {
@@ -31,7 +31,7 @@ $('.gd')
 
 $('.ctc')
   .mouseover(function () {
-    $('.maintextcontainer').css('background', 'url(gifs/ctc.gif) no-repeat center center fixed');
+    $('.maintextcontainer').css('background', 'url(gifs/ctccompress.gif) no-repeat center center fixed');
     $('.maintextcontainer').css('background-size', 'cover');
   })
   .mouseout(function () {
@@ -41,8 +41,8 @@ $('.ctc')
 
 $('.cycling')
   .mouseover(function () {
-    $('.maintextcontainer').css('background', 'url(gifs/cycling.gif) repeat left center fixed');
-    $('.maintextcontainer').css('background-size', '50%');
+    $('.maintextcontainer').css('background', 'url(gifs/cyclingcompress.gif) repeat left center fixed');
+    $('.maintextcontainer').css('background-size', '30%');
   })
   .mouseout(function () {
     $('.maintextcontainer').css('background', '');
@@ -51,7 +51,7 @@ $('.cycling')
 
 $('.makingthings')
   .mouseover(function () {
-    $('.maintextcontainer').css('background', 'url(gifs/knots.gif) repeat center center fixed');
+    $('.maintextcontainer').css('background', 'url(gifs/knotscompress.gif) repeat center center fixed');
     $('.maintextcontainer').css('background-size', 'cover');
   })
   .mouseout(function () {

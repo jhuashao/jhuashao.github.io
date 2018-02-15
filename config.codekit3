@@ -106,11 +106,27 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/gifs\/ctccompress.gif": {
+		"ft": 4194304,
+		"iS": 765684,
+		"oA": 0,
+		"oAP": "\/gifs\/ctccompress.gif",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/gifs\/cycling.gif": {
 		"ft": 4194304,
 		"iS": 4464776,
 		"oA": 0,
 		"oAP": "\/gifs\/cycling.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/gifs\/cyclingcompress.gif": {
+		"ft": 4194304,
+		"iS": 2930483,
+		"oA": 0,
+		"oAP": "\/gifs\/cyclingcompress.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -130,11 +146,27 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/gifs\/knotscompress.gif": {
+		"ft": 4194304,
+		"iS": 1337627,
+		"oA": 0,
+		"oAP": "\/gifs\/knotscompress.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/gifs\/risd.gif": {
 		"ft": 4194304,
 		"iS": 1886455,
 		"oA": 0,
 		"oAP": "\/gifs\/risd.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/gifs\/risdcompress.gif": {
+		"ft": 4194304,
+		"iS": 645456,
+		"oA": 0,
+		"oAP": "\/gifs\/risdcompress.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -360,6 +392,13 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/images\/gorham\/gorham.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/gorham\/gorham.mp4",
+		"oF": 0
+		},
 	"\/images\/gorham\/gorham.png": {
 		"ft": 32768,
 		"iS": 269902,
@@ -468,6 +507,13 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"\/images\/home\/viewbook.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/home\/viewbook.mp4",
+		"oF": 0
 		},
 	"\/images\/home\/viewbook.png": {
 		"ft": 32768,
