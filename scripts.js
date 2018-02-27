@@ -67,4 +67,8 @@ $('#seemore').click(function () {
   return false;
 });
 
-$('.carousel.carousel-slider').carousel({fullWidth: true});
+$('.carousel.carousel-slider').carousel({
+  fullWidth: true
+});
+
+$('.materialboxed').materialbox();
