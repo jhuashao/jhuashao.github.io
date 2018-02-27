@@ -2427,11 +2427,11 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/resume\/printresume.pdf": {
+	"\/resume\/resume.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/resume\/printresume.pdf",
+		"oAP": "\/resume\/resume.pdf",
 		"oF": 0
 		},
 	"\/sass\/about.scss": {
