@@ -326,6 +326,13 @@
 		"oAP": "\/images\/designchallenge\/prototype\/features\/speed.mp4",
 		"oF": 0
 		},
+	"\/images\/designchallenge\/prototype\/features\/speed2.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/prototype\/features\/speed2.mp4",
+		"oF": 0
+		},
 	"\/images\/designchallenge\/prototype\/functionality\/receiver2.mp4": {
 		"cB": 0,
 		"ft": 8192,
@@ -338,6 +345,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/images\/designchallenge\/prototype\/functionality\/sender2.mp4",
+		"oF": 0
+		},
+	"\/images\/designchallenge\/prototype\/functionality\/senderandreceiver.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/prototype\/functionality\/senderandreceiver.mp4",
 		"oF": 0
 		},
 	"\/images\/designchallenge\/prototype\/slacklightning.mp4": {
