@@ -252,13 +252,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/designchallenge\/designchallenge.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/designchallenge\/designchallenge.mp4",
-		"oF": 0
-		},
 	"\/images\/designchallenge\/john.png": {
 		"ft": 32768,
 		"iS": 214354,
@@ -387,6 +380,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/images\/designchallenge\/slack.mp4",
+		"oF": 0
+		},
+	"\/images\/designchallenge\/speed.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/speed.mp4",
 		"oF": 0
 		},
 	"\/images\/gorham\/1.png": {
@@ -594,11 +594,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/home\/designchallenge\/designchallenge.mp4": {
+	"\/images\/home\/designchallenge\/speed.mp4": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/images\/home\/designchallenge\/designchallenge.mp4",
+		"oAP": "\/images\/home\/designchallenge\/speed.mp4",
 		"oF": 0
 		},
 	"\/images\/home\/gorham.png": {
