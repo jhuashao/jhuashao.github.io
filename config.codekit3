@@ -31,6 +31,13 @@
 		"oAP": "\/caiguoqiang.html",
 		"oF": 0
 		},
+	"\/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/CNAME",
+		"oF": 0
+		},
 	"\/css\/about.css": {
 		"aP": 1,
 		"bl": 0,
@@ -90,6 +97,13 @@
 		"oAP": "\/css\/styles-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/designchallenge.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/designchallenge.html",
+		"oF": 0
 		},
 	"\/fonts\/SangBleuEmpire-Regular-WebTrial.woff": {
 		"cB": 0,
@@ -237,6 +251,133 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/images\/designchallenge\/designchallenge.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/designchallenge.mp4",
+		"oF": 0
+		},
+	"\/images\/designchallenge\/john.png": {
+		"ft": 32768,
+		"iS": 214354,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/john.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/designchallenge\/kirt.png": {
+		"ft": 32768,
+		"iS": 563714,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/kirt.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/designchallenge\/notes.jpg": {
+		"ft": 16384,
+		"iS": 494242,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/notes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/designchallenge\/notes.png": {
+		"ft": 32768,
+		"iS": 15967,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/notes.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/designchallenge\/prototype\/comparison\/comparison1.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/prototype\/comparison\/comparison1.mp4",
+		"oF": 0
+		},
+	"\/images\/designchallenge\/prototype\/comparison\/comparison2.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/prototype\/comparison\/comparison2.mp4",
+		"oF": 0
+		},
+	"\/images\/designchallenge\/prototype\/features\/interface.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/prototype\/features\/interface.mp4",
+		"oF": 0
+		},
+	"\/images\/designchallenge\/prototype\/features\/speed.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/prototype\/features\/speed.mp4",
+		"oF": 0
+		},
+	"\/images\/designchallenge\/prototype\/functionality\/receiver2.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/prototype\/functionality\/receiver2.mp4",
+		"oF": 0
+		},
+	"\/images\/designchallenge\/prototype\/functionality\/sender2.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/prototype\/functionality\/sender2.mp4",
+		"oF": 0
+		},
+	"\/images\/designchallenge\/prototype\/slacklightning.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/prototype\/slacklightning.mp4",
+		"oF": 0
+		},
+	"\/images\/designchallenge\/scope\/scope.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/scope\/scope.mp4",
+		"oF": 0
+		},
+	"\/images\/designchallenge\/simple\/simple.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/simple\/simple.mp4",
+		"oF": 0
+		},
+	"\/images\/designchallenge\/simple\/simple2.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/simple\/simple2.mp4",
+		"oF": 0
+		},
+	"\/images\/designchallenge\/slack.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/slack.mp4",
+		"oF": 0
 		},
 	"\/images\/gorham\/1.png": {
 		"ft": 32768,
@@ -442,6 +583,13 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"\/images\/home\/designchallenge\/designchallenge.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/home\/designchallenge\/designchallenge.mp4",
+		"oF": 0
 		},
 	"\/images\/home\/gorham.png": {
 		"ft": 32768,
@@ -722,11 +870,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/phaseone\/experimental\/experimental experimental(pull) copy.mp4": {
+	"\/images\/phaseone\/experimental\/ .mp4": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/images\/phaseone\/experimental\/experimental experimental(pull) copy.mp4",
+		"oAP": "\/images\/phaseone\/experimental\/ .mp4",
 		"oF": 0
 		},
 	"\/images\/phaseone\/experimental\/experimental experimental(pull).mp4": {
