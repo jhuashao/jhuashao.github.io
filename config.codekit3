@@ -252,26 +252,24 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/designchallenge\/john.png": {
-		"ft": 32768,
-		"iS": 214354,
+	"\/images\/designchallenge\/john.jpg": {
+		"ft": 16384,
+		"iS": 56373,
 		"oA": 0,
-		"oAP": "\/images\/designchallenge\/john.png",
+		"oAP": "\/images\/designchallenge\/john.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
-	"\/images\/designchallenge\/kirt.png": {
-		"ft": 32768,
-		"iS": 563714,
+	"\/images\/designchallenge\/kirt.jpg": {
+		"ft": 16384,
+		"iS": 75017,
 		"oA": 0,
-		"oAP": "\/images\/designchallenge\/kirt.png",
+		"oAP": "\/images\/designchallenge\/kirt.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"\/images\/designchallenge\/notes.jpg": {
@@ -326,25 +324,25 @@
 		"oAP": "\/images\/designchallenge\/prototype\/features\/speed2.mp4",
 		"oF": 0
 		},
-	"\/images\/designchallenge\/prototype\/functionality\/receiver2.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/designchallenge\/prototype\/functionality\/receiver2.mp4",
-		"oF": 0
-		},
-	"\/images\/designchallenge\/prototype\/functionality\/sender2.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/designchallenge\/prototype\/functionality\/sender2.mp4",
-		"oF": 0
-		},
 	"\/images\/designchallenge\/prototype\/functionality\/senderandreceiver.mp4": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/images\/designchallenge\/prototype\/functionality\/senderandreceiver.mp4",
+		"oF": 0
+		},
+	"\/images\/designchallenge\/prototype\/functionality\/senderandreceiver2.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/prototype\/functionality\/senderandreceiver2.mp4",
+		"oF": 0
+		},
+	"\/images\/designchallenge\/prototype\/functionality\/senderandreceiver3.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/designchallenge\/prototype\/functionality\/senderandreceiver3.mp4",
 		"oF": 0
 		},
 	"\/images\/designchallenge\/prototype\/slacklightning.mp4": {
@@ -2407,6 +2405,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/phonebook.html",
+		"oF": 0
+		},
+	"\/README.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/README.html",
 		"oF": 0
 		},
 	"\/README.md": {
