@@ -51,7 +51,7 @@ $('.cycling')
 
 $('.makingthings')
   .mouseover(function () {
-    $('.maintextcontainer').css('background', 'url(gifs/knotscompress.gif) repeat center center fixed');
+    $('.maintextcontainer').css('background', 'url(gifs/knots.gif) repeat center center fixed');
     $('.maintextcontainer').css('background-size', 'cover');
   })
   .mouseout(function () {
