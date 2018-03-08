@@ -1310,6 +1310,26 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/phasetwo\/3.jpg": {
+		"ft": 16384,
+		"iS": 349132,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/phasetwo\/4.jpg": {
+		"ft": 16384,
+		"iS": 259316,
+		"oA": 0,
+		"oAP": "\/images\/phasetwo\/4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/phasetwo\/alice\/alice.mp4": {
 		"cB": 0,
 		"ft": 8192,
@@ -1429,76 +1449,6 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
-		},
-	"\/images\/phasetwo\/guidingprinciples\/flexibility.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/guidingprinciples\/flexibility.mp4",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/guidingprinciples\/flexibility.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/guidingprinciples\/flexibility.webm",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/guidingprinciples\/gesture.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/guidingprinciples\/gesture.mp4",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/guidingprinciples\/gesture.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/guidingprinciples\/gesture.webm",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/guidingprinciples\/interface.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/guidingprinciples\/interface.mp4",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/guidingprinciples\/interface.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/guidingprinciples\/interface.webm",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/guidingprinciples\/ml.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/guidingprinciples\/ml.mp4",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/guidingprinciples\/ml.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/guidingprinciples\/ml.webm",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/guidingprinciples\/trust.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/guidingprinciples\/trust.mp4",
-		"oF": 0
-		},
-	"\/images\/phasetwo\/guidingprinciples\/trust.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/phasetwo\/guidingprinciples\/trust.webm",
-		"oF": 0
 		},
 	"\/images\/phasetwo\/ifttt.jpg": {
 		"ft": 16384,
@@ -1673,6 +1623,26 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/images\/phonebook\/red.jpg": {
+		"ft": 16384,
+		"iS": 762483,
+		"oA": 0,
+		"oAP": "\/images\/phonebook\/red.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/phonebook\/sue.jpg": {
+		"ft": 16384,
+		"iS": 766862,
+		"oA": 0,
+		"oAP": "\/images\/phonebook\/sue.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/viewbook\/1.png": {
 		"ft": 32768,
 		"iS": 623470,
@@ -1749,14 +1719,6 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
-		},
-	"\/images\/viewbook\/viewbook.gif": {
-		"ft": 4194304,
-		"iS": 12608607,
-		"oA": 0,
-		"oAP": "\/images\/viewbook\/viewbook.gif",
-		"oF": 0,
-		"opt": 0
 		},
 	"\/images\/zxx\/hero.png": {
 		"ft": 32768,

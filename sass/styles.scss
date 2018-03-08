@@ -8,6 +8,15 @@ $padding-standard: 100px;
 
 /* TYPOGRAPHY-------------------------------------------------*/
 
+@font-face {
+    font-family: 'sangBleu';
+    src: url('../fonts/SangBleuEmpire-Regular-WebTrial.woff') format('woff')
+}
+
+#sangbleu {
+    font-family: 'sangBleu';
+}
+
 .flow-text {
     line-height: 1.5;
 }
@@ -26,15 +35,6 @@ h4 {
     h4 {
         font-size: 2rem;
     }
-}
-
-@font-face {
-    font-family: 'sangBleu';
-    src: url('../fonts/SangBleuEmpire-Regular-WebTrial.woff') format('woff')
-}
-
-#sangbleu {
-    font-family: 'sangBleu';
 }
 
 .caption {
@@ -309,19 +309,46 @@ nav {
     padding-top: 2em;
     padding-left: 0px;
     padding-right: 0px;
+
+
+    margin-left:10px;
+    margin-right:10px;
+    
     position: relative;
     .browser-image {
         height: 30em;
-        overflow-y: scroll;
-    }
-    .browser-image-small {
-        height: 20em;
         overflow-y: scroll;
     }
     .browser-image-large {
         height: 35em;
         overflow-y: scroll;
     }
+}
+
+.row .smallerscreens {
+    background-color: #2d2d2d;
+    border: 1.5px solid #2d2d2d;
+    border-radius: 6px;
+    // padding-top: 2em;
+    padding-left: 0px;
+    padding-right: 0px;
+    position: relative;
+
+    margin-left:10px;
+    margin-right:10px;
+
+    .browser-image-medium {
+        height: 25em;
+        overflow-y: scroll;
+    }
+    .browser-image-small {
+        height: 13em;
+        overflow-y: scroll;
+    }
+}
+
+.row .smallerscreens ::-webkit-scrollbar { 
+    display: none; 
 }
 
 .row .browser::before {
