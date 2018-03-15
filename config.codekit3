@@ -24,6 +24,13 @@
 		"oAP": "\/about.html",
 		"oF": 0
 		},
+	"\/artistball.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/artistball.html",
+		"oF": 0
+		},
 	"\/caiguoqiang.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -192,6 +199,62 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/images\/artistball\/1.jpg": {
+		"ft": 16384,
+		"iS": 469193,
+		"oA": 0,
+		"oAP": "\/images\/artistball\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/artistball\/1.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/artistball\/1.mp4",
+		"oF": 0
+		},
+	"\/images\/artistball\/2.jpg": {
+		"ft": 16384,
+		"iS": 448726,
+		"oA": 0,
+		"oAP": "\/images\/artistball\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/artistball\/2.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/artistball\/2.mp4",
+		"oF": 0
+		},
+	"\/images\/artistball\/artistball.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/artistball\/artistball.mp4",
+		"oF": 0
+		},
+	"\/images\/artistball\/cheshire.gif": {
+		"ft": 4194304,
+		"iS": 704801,
+		"oA": 0,
+		"oAP": "\/images\/artistball\/cheshire.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/artistball\/cheshire.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/artistball\/cheshire.mp4",
+		"oF": 0
 		},
 	"\/images\/caiguoqiang\/caiguoqiang.png": {
 		"ft": 32768,
@@ -566,6 +629,13 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/images\/home\/artistball\/artistball.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/home\/artistball\/artistball.mp4",
+		"oF": 0
+		},
 	"\/images\/home\/caiguoqiang.png": {
 		"ft": 32768,
 		"iS": 211084,
@@ -624,13 +694,6 @@
 		"oAP": "\/images\/home\/phaseone\/phaseone.mp4",
 		"oF": 0
 		},
-	"\/images\/home\/phaseone\/phaseone.webm": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/home\/phaseone\/phaseone.webm",
-		"oF": 0
-		},
 	"\/images\/home\/phasetwo\/phasetwo.mp4": {
 		"cB": 0,
 		"ft": 8192,
@@ -649,13 +712,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/home\/viewbook.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/home\/viewbook.mp4",
-		"oF": 0
-		},
 	"\/images\/home\/viewbook.png": {
 		"ft": 32768,
 		"iS": 270602,
@@ -666,6 +722,13 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"\/images\/home\/viewbook\/viewbook.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/home\/viewbook\/viewbook.mp4",
+		"oF": 0
 		},
 	"\/images\/home\/zxx.png": {
 		"ft": 32768,

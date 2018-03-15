@@ -144,6 +144,10 @@ h4 {
 }
 
 .textspacing {
+    padding: 20px;
+}
+
+.row-spacer {
     padding-top: 20px;
 }
 
@@ -269,12 +273,6 @@ nav {
     }
 }
 
-/* Portfolio Piece Cards -------------------------------------------------*/
-
-.card {
-    margin: 0px;
-}
-
 /* About Text Container -------------------------------------------------*/
 
 .container {
@@ -302,6 +300,7 @@ nav {
 //
 /* Portfolio Piece-------------------------------------------------*/
 
+// OOH
 .row .browser {
     background-color: #2d2d2d;
     border: 1px solid #2d2d2d;
@@ -309,11 +308,8 @@ nav {
     padding-top: 2em;
     padding-left: 0px;
     padding-right: 0px;
-
-
-    margin-left:10px;
-    margin-right:10px;
-    
+    margin-left: 10px;
+    margin-right: 10px;
     position: relative;
     .browser-image {
         height: 30em;
@@ -328,15 +324,12 @@ nav {
 .row .smallerscreens {
     background-color: #2d2d2d;
     border: 1.5px solid #2d2d2d;
-    border-radius: 6px;
-    // padding-top: 2em;
+    border-radius: 6px; // padding-top: 2em;
     padding-left: 0px;
     padding-right: 0px;
     position: relative;
-
-    margin-left:10px;
-    margin-right:10px;
-
+    margin-left: 10px;
+    margin-right: 10px;
     .browser-image-medium {
         height: 25em;
         overflow-y: scroll;
@@ -347,8 +340,8 @@ nav {
     }
 }
 
-.row .smallerscreens ::-webkit-scrollbar { 
-    display: none; 
+.row .smallerscreens ::-webkit-scrollbar {
+    display: none;
 }
 
 .row .browser::before {
