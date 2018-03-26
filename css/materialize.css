@@ -3581,12 +3581,12 @@ small {
     .tabs.tabs-transparent .tab a,
     .tabs.tabs-transparent .tab.disabled a,
     .tabs.tabs-transparent .tab.disabled a:hover {
-      color: rgba(255, 255, 255, 0.7); }
+      color: rgba(0, 0, 0, 0.7); }
     .tabs.tabs-transparent .tab a:hover,
     .tabs.tabs-transparent .tab a.active {
-      color: #fff; }
+      color: rgb(0, 0, 0); }
     .tabs.tabs-transparent .indicator {
-      background-color: #fff; }
+      background-color: rgb(0, 0, 0); }
   .tabs.tabs-fixed-width {
     display: flex; }
     .tabs.tabs-fixed-width .tab {
