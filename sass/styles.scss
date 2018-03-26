@@ -178,7 +178,7 @@ h4 {
 
 /* Base-------------------------------------------------*/
 
-a{
+a {
     cursor: crosshair;
 }
 
@@ -272,6 +272,15 @@ nav {
         min-height: 40px;
         text-align: center;
         white-space: nowrap;
+    }
+}
+
+@media (max-width: 640px) {
+    .showcase-caption-hover {
+        display: none;
+        .showcase-title-hover {
+            display: none;
+        }
     }
 }
 
@@ -445,6 +454,7 @@ nav {
 footer {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding-bottom: 20px;
     .mininav .soc {
         height: 50px;
