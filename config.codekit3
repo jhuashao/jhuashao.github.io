@@ -55,6 +55,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/css\/materialize-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/materialize-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/css\/materialize.css": {
 		"aP": 1,
 		"bl": 0,
@@ -180,6 +190,14 @@
 		"iS": 645456,
 		"oA": 0,
 		"oAP": "\/gifs\/risdcompress.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/gifs\/screens.gif": {
+		"ft": 4194304,
+		"iS": 985080,
+		"oA": 0,
+		"oAP": "\/gifs\/screens.gif",
 		"oF": 0,
 		"opt": 0
 		},

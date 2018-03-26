@@ -60,6 +60,16 @@ $('.makingthings')
     $('.maintextcontainer').css('background-size', '');
   });
 
+  $('.screens')
+  .mouseover(function () {
+    $('.maintextcontainer').css('background', 'url(gifs/screens.gif) repeat center center fixed');
+    $('.maintextcontainer').css('background-size', 'cover');
+  })
+  .mouseout(function () {
+    $('.maintextcontainer').css('background', '');
+    $('.maintextcontainer').css('background-size', '');
+  });
+
 
 $('#seemore').click(function () {
   $('html, body').animate({
