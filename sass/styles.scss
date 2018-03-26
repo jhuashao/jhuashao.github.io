@@ -68,7 +68,7 @@ h4 {
 
 #hovertext:hover {
     color: blue;
-    text-decoration: underline;
+    border-bottom: 2px solid currentColor;
 }
 
 // Phase 2 Typography
@@ -263,16 +263,6 @@ nav {
         font-size: 5vw;
         font-weight:300;
         line-height: 110%;
-    }
-    #seemore {
-        transition: color 0.2s ease;
-        font-size: 15px;
-        color: grey;
-        cursor: pointer;
-    }
-    #seemore:hover {
-        color: blue;
-        text-decoration: underline;
     }
 }
 
