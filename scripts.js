@@ -60,7 +60,7 @@ $('.makingthings')
     $('.maintextcontainer').css('background-size', '');
   });
 
-  $('.screens')
+$('.screens')
   .mouseover(function () {
     $('.maintextcontainer').css('background', 'url(gifs/screens.gif) repeat center center fixed');
     $('.maintextcontainer').css('background-size', 'cover');
@@ -83,3 +83,43 @@ $('.carousel.carousel-slider').carousel({
 });
 
 $('.materialboxed').materialbox();
+
+
+var windowWidth = $(window).width();
+
+$('.showcase-image').hover(function (event) {
+    console.log("hovered!");
+      $(this).css({
+        "opacity": "0.2"
+      });
+
+    if (windowWidth > 640) {
+
+      $(this).mousemove(function (event) {
+        var x = event.pageX;
+        var y = event.pageY;
+  
+        $(".showcase-caption-hover").css({
+          "opacity": "1",
+          "left": x + 20,
+          "right": "auto",
+          "top": y-7,
+          "bottom": "auto",
+        });
+        var name = $(this).find(".showcase-caption").html();
+        $(".showcase-title-hover").html(name);
+      });
+    }
+
+  },
+  function () {
+    if (windowWidth > 640) {
+      $(".showcase-image").css({
+        "opacity": "1"
+      });
+
+      $(".showcase-caption-hover").css({
+        "opacity": "0"
+      });
+    }
+  });

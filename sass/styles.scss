@@ -178,6 +178,10 @@ h4 {
 
 /* Base-------------------------------------------------*/
 
+a{
+    cursor: crosshair;
+}
+
 html {
     font-family: 'Work Sans', sans-serif;
 }
@@ -194,9 +198,7 @@ nav {
     background-color: white;
     height: 75px;
     position: fixed;
-    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 2px 0 rgba(0, 0, 0, 0.12), 0 1px 1px -1px rgba(0, 0, 0, 0.2); 
-    
-
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 2px 0 rgba(0, 0, 0, 0.12), 0 1px 1px -1px rgba(0, 0, 0, 0.2);
     .nav-container {
         display: flex;
         align-items: center;
@@ -212,10 +214,10 @@ nav {
                 .tab:hover {
                     background-color: rgba(0, 0, 0, 0.075);
                 }
-                #navtext{
+                #navtext {
                     color: black;
                 }
-                #navtext:hover{
+                #navtext:hover {
                     color: gray;
                 }
                 .indicator {
@@ -249,6 +251,30 @@ nav {
     }
 }
 
+/* Tooltip -------------------------------------------------*/
+
+.showcase-caption {
+    display: none;
+}
+
+.showcase-caption-hover {
+    position: absolute;
+    pointer-events: none;
+    z-index: 200;
+    white-space: nowrap;
+    color: black;
+    opacity: 0;
+    -webkit-transition: .25s opacity;
+    transition: .25s opacity;
+    will-change: opacity;
+    .showcase-title-hover {
+        min-width: 40px;
+        min-height: 40px;
+        text-align: center;
+        white-space: nowrap;
+    }
+}
+
 /* Main Text Container -------------------------------------------------*/
 
 .maintextcontainer {
@@ -261,7 +287,7 @@ nav {
         width: 90%;
         max-width: 1280px;
         font-size: 5vw;
-        font-weight:300;
+        font-weight: 300;
         line-height: 110%;
     }
 }
