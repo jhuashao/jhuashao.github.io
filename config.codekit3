@@ -7,7 +7,7 @@
 		"uuidString": "83B09228-4D4D-4106-845E-B1892A4E8DD0"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.vscode\/settings.json": {
 		"ft": 524288,
@@ -211,6 +211,7 @@
 	"\/images\/about\/about.jpeg": {
 		"ft": 16384,
 		"iS": 187420,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/about\/about.jpg",
 		"oF": 0,
@@ -221,6 +222,7 @@
 	"\/images\/artistball\/1.jpg": {
 		"ft": 16384,
 		"iS": 469193,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/artistball\/1.jpg",
 		"oF": 0,
@@ -238,6 +240,7 @@
 	"\/images\/artistball\/2.jpg": {
 		"ft": 16384,
 		"iS": 448726,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/artistball\/2.jpg",
 		"oF": 0,
@@ -288,6 +291,7 @@
 	"\/images\/caiguoqiang\/hero.jpg": {
 		"ft": 16384,
 		"iS": 422749,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/caiguoqiang\/hero.jpg",
 		"oF": 0,
@@ -298,6 +302,7 @@
 	"\/images\/caiguoqiang\/note1.jpg": {
 		"ft": 16384,
 		"iS": 294102,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/caiguoqiang\/note1.jpg",
 		"oF": 0,
@@ -308,6 +313,7 @@
 	"\/images\/caiguoqiang\/note2.jpg": {
 		"ft": 16384,
 		"iS": 310169,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/caiguoqiang\/note2.jpg",
 		"oF": 0,
@@ -318,6 +324,7 @@
 	"\/images\/caiguoqiang\/poster.jpg": {
 		"ft": 16384,
 		"iS": 594000,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/caiguoqiang\/poster.jpg",
 		"oF": 0,
@@ -328,6 +335,7 @@
 	"\/images\/designchallenge\/john.jpg": {
 		"ft": 16384,
 		"iS": 56373,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/designchallenge\/john.jpg",
 		"oF": 0,
@@ -338,6 +346,7 @@
 	"\/images\/designchallenge\/kirt.jpg": {
 		"ft": 16384,
 		"iS": 75017,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/designchallenge\/kirt.jpg",
 		"oF": 0,
@@ -348,6 +357,7 @@
 	"\/images\/designchallenge\/notes.jpg": {
 		"ft": 16384,
 		"iS": 494242,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/designchallenge\/notes.jpg",
 		"oF": 0,
@@ -773,6 +783,7 @@
 	"\/images\/justlovehere\/hero.jpg": {
 		"ft": 16384,
 		"iS": 404019,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/justlovehere\/hero.jpg",
 		"oF": 0,
@@ -783,6 +794,7 @@
 	"\/images\/justlovehere\/poster.jpg": {
 		"ft": 16384,
 		"iS": 1048271,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/justlovehere\/poster.jpg",
 		"oF": 0,
@@ -1374,6 +1386,7 @@
 	"\/images\/phasetwo\/1.jpg": {
 		"ft": 16384,
 		"iS": 280244,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/phasetwo\/1.jpg",
 		"oF": 0,
@@ -1384,6 +1397,7 @@
 	"\/images\/phasetwo\/2.jpg": {
 		"ft": 16384,
 		"iS": 210938,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/phasetwo\/2.jpg",
 		"oF": 0,
@@ -1394,6 +1408,7 @@
 	"\/images\/phasetwo\/3.jpg": {
 		"ft": 16384,
 		"iS": 349132,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/phasetwo\/3.jpg",
 		"oF": 0,
@@ -1404,6 +1419,7 @@
 	"\/images\/phasetwo\/4.jpg": {
 		"ft": 16384,
 		"iS": 259316,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/phasetwo\/4.jpg",
 		"oF": 0,
@@ -1428,6 +1444,7 @@
 	"\/images\/phasetwo\/alice\/cheshire.jpg": {
 		"ft": 16384,
 		"iS": 418445,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/phasetwo\/alice\/cheshire.jpg",
 		"oF": 0,
@@ -1534,6 +1551,7 @@
 	"\/images\/phasetwo\/ifttt.jpg": {
 		"ft": 16384,
 		"iS": 2063,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/phasetwo\/ifttt.jpg",
 		"oF": 0,
@@ -1714,6 +1732,7 @@
 	"\/images\/phonebook\/red.jpg": {
 		"ft": 16384,
 		"iS": 762483,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/phonebook\/red.jpg",
 		"oF": 0,
@@ -1724,6 +1743,7 @@
 	"\/images\/phonebook\/sue.jpg": {
 		"ft": 16384,
 		"iS": 766862,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/phonebook\/sue.jpg",
 		"oF": 0,
@@ -1833,6 +1853,7 @@
 	"\/images\/zxx\/zxxslider\/1.jpg": {
 		"ft": 16384,
 		"iS": 36985,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider\/1.jpg",
 		"oF": 0,
@@ -1843,6 +1864,7 @@
 	"\/images\/zxx\/zxxslider\/10.jpg": {
 		"ft": 16384,
 		"iS": 301372,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider\/10.jpg",
 		"oF": 0,
@@ -1853,6 +1875,7 @@
 	"\/images\/zxx\/zxxslider\/11.jpg": {
 		"ft": 16384,
 		"iS": 268913,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider\/11.jpg",
 		"oF": 0,
@@ -1863,6 +1886,7 @@
 	"\/images\/zxx\/zxxslider\/12.jpg": {
 		"ft": 16384,
 		"iS": 205816,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider\/12.jpg",
 		"oF": 0,
@@ -1873,6 +1897,7 @@
 	"\/images\/zxx\/zxxslider\/2.jpg": {
 		"ft": 16384,
 		"iS": 247426,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider\/2.jpg",
 		"oF": 0,
@@ -1883,6 +1908,7 @@
 	"\/images\/zxx\/zxxslider\/3.jpg": {
 		"ft": 16384,
 		"iS": 290082,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider\/3.jpg",
 		"oF": 0,
@@ -1893,6 +1919,7 @@
 	"\/images\/zxx\/zxxslider\/4.jpg": {
 		"ft": 16384,
 		"iS": 305669,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider\/4.jpg",
 		"oF": 0,
@@ -1903,6 +1930,7 @@
 	"\/images\/zxx\/zxxslider\/5.jpg": {
 		"ft": 16384,
 		"iS": 308992,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider\/5.jpg",
 		"oF": 0,
@@ -1913,6 +1941,7 @@
 	"\/images\/zxx\/zxxslider\/6.jpg": {
 		"ft": 16384,
 		"iS": 324128,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider\/6.jpg",
 		"oF": 0,
@@ -1923,6 +1952,7 @@
 	"\/images\/zxx\/zxxslider\/7.jpg": {
 		"ft": 16384,
 		"iS": 323606,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider\/7.jpg",
 		"oF": 0,
@@ -1933,6 +1963,7 @@
 	"\/images\/zxx\/zxxslider\/8.jpg": {
 		"ft": 16384,
 		"iS": 313352,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider\/8.jpg",
 		"oF": 0,
@@ -1943,6 +1974,7 @@
 	"\/images\/zxx\/zxxslider\/9.jpg": {
 		"ft": 16384,
 		"iS": 355594,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider\/9.jpg",
 		"oF": 0,
@@ -1953,6 +1985,7 @@
 	"\/images\/zxx\/zxxslider2\/10.jpg": {
 		"ft": 16384,
 		"iS": 80468,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider2\/10.jpg",
 		"oF": 0,
@@ -1963,6 +1996,7 @@
 	"\/images\/zxx\/zxxslider2\/11.jpg": {
 		"ft": 16384,
 		"iS": 75338,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider2\/11.jpg",
 		"oF": 0,
@@ -1973,6 +2007,7 @@
 	"\/images\/zxx\/zxxslider2\/12.jpg": {
 		"ft": 16384,
 		"iS": 47969,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider2\/12.jpg",
 		"oF": 0,
@@ -1983,6 +2018,7 @@
 	"\/images\/zxx\/zxxslider2\/2.jpg": {
 		"ft": 16384,
 		"iS": 62833,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider2\/2.jpg",
 		"oF": 0,
@@ -1993,6 +2029,7 @@
 	"\/images\/zxx\/zxxslider2\/3.jpg": {
 		"ft": 16384,
 		"iS": 77595,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider2\/3.jpg",
 		"oF": 0,
@@ -2003,6 +2040,7 @@
 	"\/images\/zxx\/zxxslider2\/4.jpg": {
 		"ft": 16384,
 		"iS": 80000,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider2\/4.jpg",
 		"oF": 0,
@@ -2013,6 +2051,7 @@
 	"\/images\/zxx\/zxxslider2\/5.jpg": {
 		"ft": 16384,
 		"iS": 89392,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider2\/5.jpg",
 		"oF": 0,
@@ -2023,6 +2062,7 @@
 	"\/images\/zxx\/zxxslider2\/6.jpg": {
 		"ft": 16384,
 		"iS": 104236,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider2\/6.jpg",
 		"oF": 0,
@@ -2033,6 +2073,7 @@
 	"\/images\/zxx\/zxxslider2\/7.jpg": {
 		"ft": 16384,
 		"iS": 81750,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider2\/7.jpg",
 		"oF": 0,
@@ -2043,6 +2084,7 @@
 	"\/images\/zxx\/zxxslider2\/8.jpg": {
 		"ft": 16384,
 		"iS": 79305,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider2\/8.jpg",
 		"oF": 0,
@@ -2053,6 +2095,7 @@
 	"\/images\/zxx\/zxxslider2\/9.jpg": {
 		"ft": 16384,
 		"iS": 99030,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/zxx\/zxxslider2\/9.jpg",
 		"oF": 0,
@@ -3127,7 +3170,8 @@
 	"creationDate": 535835492,
 	"displayValue": "jhuashao.github.io",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_magenta"
+	"iconImageName": "brackets_magenta",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -4930,6 +4974,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
