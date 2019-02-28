@@ -132,9 +132,15 @@ h4 {
 .creambackground {
   background: #fff6e6;
 }
+
 a {
   cursor: crosshair;
 }
+
+a[target="_blank"] { 
+  cursor: ne-resize;
+}
+
 html {
   font-family: "Work Sans", sans-serif;
 }
