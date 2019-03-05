@@ -5,6 +5,18 @@
   font-family: "sangBleu";
   src: url("../fonts/SangBleuEmpire-Regular-WebTrial.woff") format("woff");
 }
+
+@font-face{
+  font-family: 'Space Mono', monospace;
+}
+
+#tagline{
+  font-family: 'Space Mono';
+  font-size: 1rem;
+  color: rgb(103, 103, 103);
+  margin-bottom: 0px;
+}
+
 #sangbleu {
   font-family: "sangBleu";
 }
