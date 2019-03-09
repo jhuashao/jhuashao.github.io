@@ -1963,9 +1963,9 @@ html {
 
 ul:not(.browser-default) {
   padding-left: 0;
-  list-style-type: none; }
+  list-style-type: circle; }
   ul:not(.browser-default) > li {
-    list-style-type: none; }
+    list-style-type: circle; }
 
 a {
   color: #039be5;
