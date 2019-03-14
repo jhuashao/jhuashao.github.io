@@ -360,28 +360,28 @@ p,
 /* portfolio images */
 
 #phonebookimage {
-	background-image: url('pages/phonebook/phonebookImages/phonebookhero.png');
+	background-image: url('pages/phonebook/phonebookimages/phonebookhero.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 #viewbookimage {
-	background-image: url('pages/viewbook/viewbookImages/viewbook.gif');
+	background-image: url('pages/viewbook/viewbookimages/viewbook.gif');
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 #oohimage {
-	background-image: url('pages/ooh/oohImages/ooh.png');
+	background-image: url('pages/ooh/oohimages/ooh.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 #guggyimage {
-	background-image: url('pages/guggy/guggyImages/guggy.gif');
+	background-image: url('pages/guggy/guggyimages/guggy.gif');
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;

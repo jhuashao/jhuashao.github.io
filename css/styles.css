@@ -5,6 +5,22 @@
   font-family: "sangBleu";
   src: url("../fonts/SangBleuEmpire-Regular-WebTrial.woff") format("woff");
 }
+
+@font-face{
+  font-family: 'Space Mono', monospace;
+}
+
+#tagline, #tagline-white{
+  font-family: 'Space Mono';
+  font-size: 1rem;
+  color: rgb(150, 150, 150);
+  margin-bottom: 0px;
+}
+
+#tagline-white{
+  color: whitesmoke;
+}
+
 #sangbleu {
   font-family: "sangBleu";
 }
@@ -13,6 +29,7 @@
 }
 p:first-child {
   margin-top: 0px;
+  margin-bottom: 0px;
 }
 h4 {
   font-size: 2.28rem;
@@ -131,6 +148,15 @@ h4 {
 }
 .creambackground {
   background: #fff6e6;
+}
+
+ul{
+  font-weight: 300;
+  list-style-type: circle;
+  margin-top:0px;
+}
+li{
+  list-style-type: circle;
 }
 
 a {
@@ -278,6 +304,15 @@ nav .nav-container .nav-content .tabs .indicator {
   .container #about .row .abouttextcontainer {
     padding-top: 20px;
   }
+
+  .row{
+    margin-bottom:0px;
+  }
+  
+  .maintextcontainer {
+    padding-bottom: 00px;
+  }
+
 }
 .row .browser {
   background-color: #2d2d2d;
