@@ -304,6 +304,15 @@ nav .nav-container .nav-content .tabs .indicator {
   .container #about .row .abouttextcontainer {
     padding-top: 20px;
   }
+
+  .row{
+    margin-bottom:0px;
+  }
+  
+  .maintextcontainer {
+    padding-bottom: 00px;
+  }
+
 }
 .row .browser {
   background-color: #2d2d2d;
