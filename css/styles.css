@@ -1,6 +1,7 @@
 .padding-standard {
   padding-top: 100px;
 }
+
 @font-face {
   font-family: "sangBleu";
   src: url("../fonts/SangBleuEmpire-Regular-WebTrial.woff") format("woff");
