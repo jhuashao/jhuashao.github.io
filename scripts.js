@@ -1,7 +1,6 @@
 // Tabs animation
 $(document).ready(function () {
   $("ul.tabs").tabs();
-
 });
 
 // Hero gif animation
