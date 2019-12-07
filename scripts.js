@@ -4,11 +4,11 @@ $(document).ready(function () {
 });
 
 // Hero gif animation
-$(".risd")
+$(".nyt")
   .mouseover(function () {
     $(".maintextcontainer").css(
       "background",
-      "url(gifs/risdcompress.gif) repeat left center fixed"
+      "url(gifs/nyt.gif) repeat left center fixed"
     );
     $(".maintextcontainer").css("background-size", "40%");
   })
